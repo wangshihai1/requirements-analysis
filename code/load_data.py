@@ -3,6 +3,18 @@ from random import randint
 from sentence_transformers import SentenceTransformer,util
 import numpy as np
 
+word_num = {
+    'one':'1',
+    'two':'2',
+    'three':'3',
+    'four':'4',
+    'five':'5',
+    'six':'6',
+    'seven':'7',
+    'eight':'8',
+    'nine':'9',
+    'ten':'10'
+}
 
 #读取数据集及其标签
 def get_data2(path): 
@@ -153,8 +165,23 @@ def get_data5(path):
     return input,output
 
 def equal(a,b): #判断两个字符串是否相等
+    
+    # 大写变小写
+    a = a.lower()
+    b = b.lower()
+    
+    # 数字单词变数字
+    if a in word_num:
+        a = word_num[a]
+    if b in word_num:
+        b = word_num[b]
+        
     if(is_num(a) and is_num(b)): #都是数字
         return True
+   
+    if a in qualifier and b in qualifier: # 都是情态动词
+        return True
+    
     if a == b :
         return True
     return False

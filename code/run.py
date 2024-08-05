@@ -96,16 +96,26 @@ scores = []
 fail_scores = []
 
 
-full_sentences = open("已标记.txt",'r',encoding='utf-8').read().split('\n')
+full_sentences = open("../new_data.txt",'r',encoding='utf-8').read().split('\n')
 
 for sentence in full_sentences:
-    sentences.append(sentence.split('@')[0])
-    real_labels.append(trans_trend(sentence.split('@')[1]))
+    sentences.append(sentence.split('@')[1])
+    real_labels.append(trans_trend(sentence.split('@')[2]))
+    
+    
+# with open('../new_data.txt','w',encoding='utf-8') as f:
+#     index = 1
+#     for sentence in full_sentences:
+#         s = sentence.split('@')[0]
+#         lb = sentence.split('@')[1]
+#         f.write(str(index) + '@' + s + '@' + lb + '\n')
+#         index += 1
 
+# exit(0)
 i = 0
 cnt = 0
-true_save_path =  f"./预测结果/预测正确/{get_formatted_time()}.txt"
-false_save_path = f"./预测结果/预测错误/{get_formatted_time()}.txt"
+true_save_path =  f"../预测结果/预测正确/{get_formatted_time()}.txt"
+false_save_path = f"../预测结果/预测错误/{get_formatted_time()}.txt"
 for big_sentence in sentences:
     
     test_case = f'test case : {i+1}'
@@ -141,7 +151,7 @@ plt.scatter(x, scores,c = 'green')
 plt.title('Scatter Plot 1')
 plt.xlabel('id')
 plt.ylabel('score')
-plt.savefig(f'./可视化/score_{get_formatted_time()}.png')
+plt.savefig(f'../可视化/score_{get_formatted_time()}.png')
 plt.close()  # 关闭当前图
 
 # 绘制并保存第二张图
@@ -150,5 +160,5 @@ plt.scatter(fail_x, fail_scores,c = 'red')
 plt.title('Scatter Plot 2')
 plt.xlabel('id')
 plt.ylabel('score')
-plt.savefig(f'./可视化/fail_score_{get_formatted_time()}.png')
+plt.savefig(f'../可视化/fail_score_{get_formatted_time()}.png')
 plt.close()  # 关闭当前图

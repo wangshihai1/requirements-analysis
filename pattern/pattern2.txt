@@ -27,3 +27,6 @@ minimum of 100 $10
 after 100 $10
 in an acceptable time  $22
 support a maximum of 100 $10
+respond fast to $22
+be able to handle 100 $10
+all must be $11

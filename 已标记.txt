@@ -54,7 +54,7 @@ The product shall be easy to use. 90% of users will be able to successfully rese
 The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions. @10
 An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms. @02
 The response shall be fast enough to avoid interrupting the user抯 flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds. @02
-Aside from server failure  the software product shall achieve 99.99% up time. @11
+Aside from server failure  the software product shall achieve 99.99% up time. @10
 The product shall be capable of handling up to 1000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours. @10
 The product shall be expected to operate for at least 5 years for each customer installation. @10
 A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes. @02

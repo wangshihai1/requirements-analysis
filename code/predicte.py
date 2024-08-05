@@ -48,6 +48,9 @@ def get_label(sentence): #注意：sentence是一个单词列表
     for i in range(num):
         pattern=languagePatterns[i]
         LCS,score=lcs(sentence,pattern)
+        if len(pattern) == 3:
+            if len(LCS) > 0:
+                score = get_punishment_score(LCS[-1] - LCS[0] + 1, 2, score)
         possible_result.append((LCS,pattern,labels[i],score))
     possible_result=sorted(possible_result, key = key_function, reverse=True)
     
@@ -70,7 +73,7 @@ def trans_trend(str):
 def inv_trend(trend):
     return (trend[0] * -1, trend[1] * -1)
 
-full_languagePatterns = open('new_pattern.txt','r',encoding='utf-8').read().split('\n')
+full_languagePatterns = open('../pattern/pattern2.txt','r',encoding='utf-8').read().split('\n')
 
 for pattern in full_languagePatterns:
     languagePatterns.append(get_word(pattern.split('$')[0]))
