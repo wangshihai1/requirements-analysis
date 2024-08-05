@@ -1,0 +1,89 @@
+The system shall refresh the display every 60 seconds.  @0 0 -1
+The product shall be easy for a realtor to learn. @-1 -1 -1
+The product shall synchronize contacts and appointments in an acceptable time. @-1 -1 -1
+The product shall synchronize with the office system every hour.  @0 0 -1
+The product shall be available for use 24 hours per day  365 days  per year @1 1 1
+Out of 1000 accesses to the system  the system is available 999 times. @1 1 1
+The product shall be able to support multiple remote users @1 1 1
+The system shall be easy to use by the Program Administrators/Nursing Staff Members.  @-1 -1 -1
+100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course. @0 0 1
+100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course. @0 0 1
+The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds. @0 0 -1
+The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database @1 1 1 
+The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database. @1 1 1 
+The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database. @1 1 1 
+The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. @1 1 1 
+The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant’s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System. @1 1 1 
+All updates to data files or database must be initiated from the Disputes System. @1 1 1 
+The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use. @0 1 0 
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product. @0 1 0 
+Users shall feel satisfied using the product.  85% of all users will be satisfied with the product. @0 1 0 
+The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds @0 0 -1
+The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds. @0 0 -1
+The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds. @0 0 -1
+The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions. @0 1 0
+Aside from server failure  the software product shall achieve 99.99% up time. @0 0 1
+A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes. @0 1 0
+The product shall be able to be installed in any operating environment within 2 days. @0 0 -1
+Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds. @0 0 -1 
+System shall let existing customers log into the website with their email address and password in under 5 seconds. @0 0 -1 
+System shall let customers cancel their account  process shall take no longer than 2 minutes. @0 0 -1 
+System shall let administrator add/remove movies on the website in under 5 minutes. @0 0 -1   
+System shall let Izogn Manager access sales and usage statistics in under 2 minutes. @0 0 -1 
+Users should be able to access their streaming movies in under 2 clicks after logging into the website. @0 0 -1
+When streaming a movie  the buffering time should take no longer than 10 seconds.@0 0 -1
+All movies shall be streamed on demand  at any time of the day. @0 0 1
+The streaming server will support a maximum of 700 movies; new servers can be added to support more movies. @0 1 0 
+Izogn Administrator must be able to update the category listings on the website within 2 minutes. @0 0 -1
+Izogn Administrator must be able to add new products to the website within 2 minutes. @0 0 -1
+The system will provide a 24 hour 800 toll free number for support to its customers. @1 1 1
+All credit card information will be encrypted in the database. @1 1 1 
+The website should appeal to all Africans  not only Nigerians. @1 1 1 
+Total lead cycle time must be completed in 5 minutes. @0 0 -1
+Total lead cycle time must be completed for 90% of lead volume between the business hours of 8AM CST to 8PM CST. @0 1 0
+For leads that process longer than 25 seconds the system will record the event and duration. @0 0 -1
+The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle. @0 0 -1
+Washing parameters will be updated during scheduled maintenance hours. @1 0 -1
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes. @0 0 -1
+the system response time must be no more than 5 seconds. @0 0 -1
+On a 56k connection  the system response time for all operations must be no more than 6 seconds. @0 0 -1
+The system must be available for use between 7:00AM and 11:59PM all days of the year. @1 1 1
+The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage. @0 0 -1
+The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds. @0 0 -1
+The product shall provide Dynamic Change Support and Transparent resource addition.The product shall support Transparent Resource addition and Dynamic Change support to provide scalability and avoid service interruptions of more than 1 day. @1 1 0 
+The interface must summarize the data in a fashion that’s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface. @1 1 0
+Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). @0 0 -1
+All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available) @0 0 1
+The WCS system shall be available at all times as long as IBM’s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM’s internal intranet W3 is available. @0 1 0
+The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. @1 0 -1
+The messages will contain up to the first 150 characters of the message. @1 0 -1
+A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page. @0 0 -1
+Users shall be able to view at least 25 NFL player statistics and points on each page. @0 1 0
+The application shall have a downtime of at most 10 minutes per year. @1 0 -1
+Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season. @1 0 -1
+The RFS system should be available 24/7  especially during the budgeting period.  @0 0 1
+The RFS system shall be available 90% of the time all year  and 98% during the budgeting period.  @0 0 1
+2% of the time  the system will become available within 1 hour of the time that the situation is reported. @ 0 0 -1
+The RFS system should be able to easily interface with the BDW environment  in order to load the data. @1 1 1 
+The product interface should be fast. The response time of the product interface should not exceed 2 seconds. @0 0 -1
+achieve 100
+every 100
+every 100 seconds  
+every second
+every hour
+every 100 hour
+every minute
+every 100 minute
+respond fast
+in an acceptable time
+100 accesses is available 100 times
+support multiple
+achieve 100% up time
+cater to 100
+support 100
+All
+easy to
+within 100% of
+once per day
+100 per
+

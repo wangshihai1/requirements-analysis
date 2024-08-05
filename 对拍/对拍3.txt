@@ -1,0 +1,376 @@
+If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    time of 100
+matched_part2 :    100 % of
+matched_seg :  90 % of viewers
+-------------------------------------------
+
+The product shall respond fast to keep up-to-date data in the display. 
+score1 : 0.0
+score2 : 0.6666666666666666
+matched_part1 :    in under 100
+matched_part2 :    up to 100
+matched_seg :  up - to - date
+-------------------------------------------
+
+system shall be able to handle all of the user requests/usage during business hours. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    for 100 % of
+matched_part2 :    to 100
+matched_seg :  to
+-------------------------------------------
+
+The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    minimum of 100
+matched_part2 :    to 100
+matched_seg :  to manage the nursing program curriculum and class / clinical scheduling for a minimum of 5 years
+-------------------------------------------
+
+The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ?Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    to 100
+matched_seg :  to 4:00am EST
+-------------------------------------------
+
+The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    be avilable 100
+matched_part2 :    to 100
+matched_seg :  to the merchant
+-------------------------------------------
+
+The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. 
+score1 : 0.3333333333333333
+score2 : 0.5
+matched_part1 :    up to 100
+matched_part2 :    to 100
+matched_seg :  to
+-------------------------------------------
+
+The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant抯 accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    be avilable 100
+matched_part2 :    to 100
+matched_seg :  to
+-------------------------------------------
+
+All additions of new users and modifications to user抯 access shall be recorded on the User Report. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    for 100 % of
+matched_part2 :    of 100
+matched_seg :  of new users and modifications
+-------------------------------------------
+
+All updates to data files or database must be initiated from the Disputes System. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    be avilable 100
+matched_part2 :    to 100
+matched_seg :  to data files or database
+-------------------------------------------
+
+All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    for 100 % of
+matched_part2 :    in 100
+matched_seg :  in the Disputes System
+-------------------------------------------
+
+All actions that modify an existing dispute case must be recorded in the case history. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    in under 100
+matched_part2 :    be 100
+matched_seg :  be
+-------------------------------------------
+
+The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    to 100
+matched_seg :  to handle 10 000 concurrent users within 2 years of the initial launch
+-------------------------------------------
+
+The product shall be capable of handling up to 1000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    up to 100
+matched_part2 :    of 100
+matched_seg :  of handling up to 1000 concurrent requests
+-------------------------------------------
+
+The product shall be expected to operate for at least 5 years for each customer installation. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    at least 100
+matched_part2 :    to 100
+matched_seg :  to operate for at least 5 years for each customer installation
+-------------------------------------------
+
+A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    within 100
+matched_seg :  within 10 minutes
+-------------------------------------------
+
+Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install. 
+score1 : 0.75
+score2 : 1.0
+matched_part1 :    no longer than 100
+matched_part2 :    for 100 % of
+matched_seg :  for 80 % of the customer base to install
+-------------------------------------------
+
+registered users shall find a solution to their problem within 5 minutes of using the support site. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    within 100
+matched_seg :  within 5 minutes of using the support site
+-------------------------------------------
+
+The product shall be able to be installed in any operating environment within 2 days. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    within 100
+matched_part2 :    to 100
+matched_seg :  to be installed in any operating environment within 2 days
+-------------------------------------------
+
+Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min. 
+score1 : 0.75
+score2 : 1.0
+matched_part1 :    no more than 100
+matched_part2 :    of 100
+matched_seg :  of previous 30 days
+-------------------------------------------
+
+The System shall allow for a minimum of  6 users to work at the same time. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    minimum of 100
+matched_part2 :    of 100
+matched_seg :  of   6 users
+-------------------------------------------
+
+Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    in under 100
+matched_part2 :    to 100
+matched_seg :  to activate a pre - paid card via the Administration section in under 5 seconds
+-------------------------------------------
+
+Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    in under 100
+matched_part2 :    to 100
+matched_seg :  to check the status of their prepaid card   by entering in the PIN number   in under 5 seconds
+-------------------------------------------
+
+The product should be able to be used by 90% of novice users on the Internet. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    to 100
+matched_seg :  to be used by 90 % of novice users on the Internet
+-------------------------------------------
+
+Users should only have to navigate through a maximum of 4 pages  to create an account with the website. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    maximum of 100
+matched_part2 :    to 100
+matched_seg :  to navigate through a maximum of 4 pages   to create an account with the website
+-------------------------------------------
+
+Users should be able to access their streaming movies in under 2 clicks after logging into the website. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    in under 100
+matched_part2 :    to 100
+matched_seg :  to access their streaming movies in under 2 clicks after logging into the website
+-------------------------------------------
+
+Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    in under 100
+matched_part2 :    to 100
+matched_seg :  to purchase and watch a pre - determined movie in under 3 minutes
+-------------------------------------------
+
+The website shall be available for use 24 hours per day  365 days per year. 
+score1 : 0.5
+score2 : 0.6666666666666666
+matched_part1 :    be 100
+matched_part2 :    for 100 % of
+matched_seg :  for use 24 hours per day  
+-------------------------------------------
+
+The server will support a maximum of 1000 simultaneous users. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    maximum of 100
+matched_part2 :    of 100
+matched_seg :  of 1000 simultaneous users
+-------------------------------------------
+
+The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    maximum of 100
+matched_part2 :    to 100
+matched_seg :  to operate within the maximum maintenance budget for a minimum of 2 years
+-------------------------------------------
+
+Izogn Administrator must be able to update the category listings on the website within 2 minutes. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    within 100
+matched_part2 :    to 100
+matched_seg :  to update the category listings on the website within 2 minutes
+-------------------------------------------
+
+The product shall be able to be installed in the specified environment within 1 working day. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    within 100
+matched_part2 :    to 100
+matched_seg :  to be installed in the specified environment within 1 working day
+-------------------------------------------
+
+Total lead cycle time must be completed in 5 minutes. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    be 100
+matched_part2 :    in 100
+matched_seg :  in 5 minutes
+-------------------------------------------
+
+Total lead cycle time must be completed in 3 minutes. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    be 100
+matched_part2 :    in 100
+matched_seg :  in 3 minutes
+-------------------------------------------
+
+The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    in 100
+matched_seg :  in which a lead is assigned within 3 minutes of the total life cycle
+-------------------------------------------
+
+The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    within 100
+matched_part2 :    to 100
+matched_seg :  to accomplish any system task within 2 minutes
+-------------------------------------------
+
+The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    time of 100
+matched_part2 :    within 100
+matched_seg :  within 2 seconds
+-------------------------------------------
+
+The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    maximum of 100
+matched_part2 :    of 100
+matched_seg :  of every 1 second
+-------------------------------------------
+
+Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    within 100
+matched_part2 :    to 100
+matched_seg :  to
+-------------------------------------------
+
+The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users. 
+score1 : 0.0
+score2 : 0
+matched_part1 :    decreased by 100
+matched_part2 : 
+matched_seg : 
+-------------------------------------------
+
+The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    for 100 % of
+matched_part2 :    to 100
+matched_seg :  to the WCS databases
+-------------------------------------------
+
+The message board shall contain the 5 most recently posted messages on the league page. 
+score1 : 0.0
+score2 : 0.5
+matched_part1 :    for 100 % of
+matched_part2 :    on 100
+matched_seg :  on the league page
+-------------------------------------------
+
+The messages will contain up to the first 150 characters of the message. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    up to 100
+matched_part2 :    to 100
+matched_seg :  to the first 150 characters of the message
+-------------------------------------------
+
+A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    to 100
+matched_seg :  to navigate through the league and team pages within 30 seconds of reaching the start - up page
+-------------------------------------------
+
+Users shall be able to view at least 25 NFL player statistics and points on each page. 
+score1 : 0.6666666666666666
+score2 : 1.0
+matched_part1 :    at least 100
+matched_part2 :    to 100
+matched_seg :  to view at least 25 NFL player statistics and points on each page
+-------------------------------------------
+
+data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. 
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    within 100
+matched_seg :  within 3 hours
+-------------------------------------------
+
+The display of all the pages will be correct in 95% of the resolutions  prior to implementation.  
+score1 : 0.5
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    in 100
+matched_seg :  in 95 % of the resolutions  
+-------------------------------------------
+

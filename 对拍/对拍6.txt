@@ -1,0 +1,56 @@
+The product shall respond fast to keep up-to-date data in the display. 
+score1 : 0.5
+score2 : 0.6666666666666666
+matched_part1 :    in 100
+matched_part2 :    up to 100
+matched_seg :  The product shall respond fast to keep up - to - date data in the display .
+-------------------------------------------
+
+The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. 
+score1 : 0.6666666666666666
+score2 : 0.5
+matched_part1 :    up to 100
+matched_part2 :    to 100
+matched_seg :  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process .
+-------------------------------------------
+
+All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations. 
+score1 : 0.5
+score2 : 0.5
+matched_part1 :    be 100
+matched_part2 :    in 100
+matched_seg :  All business rules specified in the Disputes System
+-------------------------------------------
+
+All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z. 
+score1 : 0.5
+score2 : 0.5
+matched_part1 :    be 100
+matched_part2 :    in 100
+matched_seg :  All business rules specified in the Disputes System
+-------------------------------------------
+
+A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes. 
+score1 : 1.0
+score2 : 1.0
+matched_part1 :    100 % of
+matched_part2 :    within 100
+matched_seg :  A new user must be able to be added to the system within 10 minutes .  
+-------------------------------------------
+
+Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min. 
+score1 : 1.0
+score2 : 1.0
+matched_part1 :    no more than 100
+matched_part2 :    of 100
+matched_seg :  Recreation of Inventory Quantity Adjustment for the period of previous 30 days
+-------------------------------------------
+
+Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). 
+score1 : 0.5
+score2 : 0.5
+matched_part1 :    within 100
+matched_part2 :    be 100
+matched_seg :  Rreports must be easy to generate .
+-------------------------------------------
+

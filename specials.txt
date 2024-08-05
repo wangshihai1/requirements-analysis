@@ -1,0 +1,61 @@
+The system shall refresh the display every 60 seconds.  
+The product shall respond fast to keep up-to-date data in the display. 
+The product shall produce search results in an acceptable time 
+The product shall generate a CMA report in an acceptable time. 
+The product shall synchronize contacts and appointments in an acceptable time. 
+The product shall synchronize with the office system every hour.  
+Out of 1000 accesses to the system  the system is available 999 times. 
+The product shall be able to support multiple remote users 
+The system shall achieve 95% up time. 
+The system shall cater to 10 simultaneous users from 9am to 5pm. 
+The Disputes application shall support 350 concurrent users without any degradation of performance in the application. 
+The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database 
+The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database. 
+The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database. 
+The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. 
+The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant抯 accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System. 
+All additions of new users and modifications to user抯 access shall be recorded on the User Report. 
+All updates to data files or database must be initiated from the Disputes System. 
+All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations. 
+All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z. 
+The Disputes application must maintain a detailed history of every action that a user takes on a dispute case.  This ensures a complete audit trail if questions arise later on with regard to a particular dispute case. 
+All actions that modify an existing dispute case must be recorded in the case history. 
+The product shall be easy to learn by Adjusters and Collision Estimators.  The product shall be learned with two days onsite training 
+The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule. 
+The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM. 
+The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions. 
+Aside from server failure  the software product shall achieve 99.99% up time. 
+registered users shall find a solution to their problem within 5 minutes of using the support site. 
+The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product. 
+An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system. 
+The website shall achieve 99.5% up time. 
+All movies shall be streamed on demand  at any time of the day. 
+The streaming server will support 50 simultaneous streaming connections. 
+Promotional updates to the website should take a day to update. 
+The system will provide a 24 hour 800 toll free number for support to its customers. 
+The website will provide a help section with answers and solutions to common problems. 
+Data integrity scripts will be run on a weekly basis to verify the integrity of the database. 
+The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website. 
+All customer information will be stored on a secure database  accessible only to authorized personnel. 
+All credit card information will be encrypted in the database. 
+The website should appeal to all Africans  not only Nigerians. 
+For leads that process longer than 25 seconds the system will record the event and duration. 
+Washing parameters will be updated during scheduled maintenance hours. 
+The product shall able to handle a large number of games simultaneously. 
+The interface shall have a simple look. In the interface and usability survey  90% of beta testers must report that the interface is adequately simple. 
+The product shall provide Monitoring Services.The product shall be easy for System Administrators and DBAs to use after two weeks of usage. 
+The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time. 
+The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months. 
+The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes. 
+The interface must summarize the data in a fashion that抯 appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface. 
+Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). 
+After one use a user should understand and remember 90% of the system usage and navigation. 
+The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users. 
+The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. 
+All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation. 
+The message board shall contain the 5 most recently posted messages on the league page. 
+Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season. 
+The RFS system should be available 24/7  especially during the budgeting period.  
+Minimum Hard Disk Space: 400MB. 
+The RFS system should be able to easily interface with the BDW environment  in order to load the data. 
+

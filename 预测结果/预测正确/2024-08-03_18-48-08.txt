@@ -1,0 +1,441 @@
+* test case : 2
+* requirement description : If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  If projected   the data must be readable .  
+-------------------------------------------
+
+* test case : 4
+* requirement description : If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  If projected   the data must be understandable .
+-------------------------------------------
+
+* test case : 5
+* requirement description : The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  The product shall be intuitive and self - explanatory .  
+-------------------------------------------
+
+* test case : 12
+* requirement description : The product shall synchronize with the office system every hour.  
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  The product shall synchronize with the office system every hour .  
+-------------------------------------------
+
+* test case : 13
+* requirement description : Out of 1000 accesses to the system  the system is available 999 times. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  Out of 1000
+-------------------------------------------
+
+* test case : 14
+* requirement description : 100% of saved user preferences shall be restored when system comes back online. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 15
+* requirement description : The product shall be able support 1000 simultaneous users. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product shall be able support 1000 simultaneous users .
+-------------------------------------------
+
+* test case : 16
+* requirement description : The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product shall be capable of handling the existing 1000 users .
+-------------------------------------------
+
+* test case : 17
+* requirement description : 90% of untrained realtors shall be able to install the product on their device without printed instructions 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  90
+-------------------------------------------
+
+* test case : 21
+* requirement description : The system shall achieve 95% up time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The system shall achieve 95 % up time .
+-------------------------------------------
+
+* test case : 24
+* requirement description : The system shall be capable of processing 100% of nursing students and their classes for the next 10 years. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The system shall be capable of processing 100 % of nursing students and their classes for the next 10 years .
+-------------------------------------------
+
+* test case : 25
+* requirement description : The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 26
+* requirement description : 100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 27
+* requirement description : 100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 28
+* requirement description : 100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 29
+* requirement description : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds. 
+* score : 1.0
+* matched_part :  maximum of 100
+* matched_seg :  maximum
+-------------------------------------------
+
+* test case : 42
+* requirement description : The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product shall increase productivity of Collision Estimators .
+-------------------------------------------
+
+* test case : 43
+* requirement description : Users shall feel satisfied using the product.  85% of all users will be satisfied with the product. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  85
+-------------------------------------------
+
+* test case : 48
+* requirement description : The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product shall achieve a 98 % uptime .
+-------------------------------------------
+
+* test case : 49
+* requirement description : The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product shall be able to handle up to 1500 simultaneous users .
+-------------------------------------------
+
+* test case : 53
+* requirement description : The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  The product shall be easy to use .
+-------------------------------------------
+
+* test case : 54
+* requirement description : The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  80
+-------------------------------------------
+
+* test case : 55
+* requirement description : An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  An employee will be able to successfully use the product within a few minutes .  
+-------------------------------------------
+
+* test case : 58
+* requirement description : The product shall be capable of handling up to 1000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product shall be capable of handling up to 1000 concurrent requests .  
+-------------------------------------------
+
+* test case : 59
+* requirement description : The product shall be expected to operate for at least 5 years for each customer installation. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 61
+* requirement description : The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 62
+* requirement description : The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product抯 software code. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product must be highly configurable for use with various database management systems for the end users .  
+-------------------------------------------
+
+* test case : 64
+* requirement description : 70% of registered users shall find a solution to their problem using the support site. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  70
+-------------------------------------------
+
+* test case : 65
+* requirement description : registered users shall find a solution to their problem within 5 minutes of using the support site. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  registered users shall find a solution to their problem within 5 minutes of using the support site .
+-------------------------------------------
+
+* test case : 68
+* requirement description : 100% of all logons shall be by either company employees or external users with company-approved user IDs. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 69
+* requirement description : 100% of all search queries for reservations by user shall be from logons of only management logons. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 72
+* requirement description : 100% of customers will be able to receive automatic software updates transmitted to the installed product. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  100
+-------------------------------------------
+
+* test case : 73
+* requirement description : 90% of survey respondents from each target market country will find that the language of the product is acceptable. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  90
+-------------------------------------------
+
+* test case : 74
+* requirement description : 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  90
+-------------------------------------------
+
+* test case : 76
+* requirement description : The System shall allow for a minimum of  6 users to work at the same time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The System shall allow for a minimum of   6 users to work at the same time .
+-------------------------------------------
+
+* test case : 88
+* requirement description : The product should be able to be used by 90% of novice users on the Internet. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product should be able to be used by 90 % of novice users on the Internet .
+-------------------------------------------
+
+* test case : 91
+* requirement description : An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  An anonymous survey will show that 70 % of customers are comfortable purchasing streaming movies after 2 weeks using the website .
+-------------------------------------------
+
+* test case : 100
+* requirement description : The streaming server will support 50 simultaneous streaming connections. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The streaming server will support 50 simultaneous streaming connections .
+-------------------------------------------
+
+* test case : 102
+* requirement description : The server will support a maximum of 1000 simultaneous users. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The server will support a maximum of 1000 simultaneous users .
+-------------------------------------------
+
+* test case : 103
+* requirement description : The website shall be capable of supporting 100 000 customers. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The website shall be capable of supporting 100 000 customers .
+-------------------------------------------
+
+* test case : 104
+* requirement description : The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 114
+* requirement description : No lead evaluation will complete for 97% of all leads processed. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  No lead evaluation will complete for 97 % of all leads processed .
+-------------------------------------------
+
+* test case : 116
+* requirement description : The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle .
+-------------------------------------------
+
+* test case : 121
+* requirement description : no more than 4% for the remaining responses. 
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg :  no
+-------------------------------------------
+
+* test case : 122
+* requirement description : The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes. 
+* score : 1.0
+* matched_part :  decreased by 100
+* matched_seg :  The system shall be easy to use by callers and supervisors .
+-------------------------------------------
+
+* test case : 123
+* requirement description : The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes. 
+* score : 1.0
+* matched_part :  decreased by 100
+* matched_seg :  The system shall be easy to learn by callers and supervisors .
+-------------------------------------------
+
+* test case : 125
+* requirement description : The system shall be responsive for 90% of the time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The system shall be responsive for 90 % of the time .
+-------------------------------------------
+
+* test case : 128
+* requirement description : the system response time for all operations must be for 90% of the time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  the system response time for all operations
+-------------------------------------------
+
+* test case : 130
+* requirement description : the system response time for all operations must be for 90% of the time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  the system response time for all operations
+-------------------------------------------
+
+* test case : 133
+* requirement description : The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 138
+* requirement description : The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year. 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  The product shall be able to process all transactions .
+-------------------------------------------
+
+* test case : 144
+* requirement description : All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available) 
+* score : 1.0
+* matched_part :  be avilable 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 147
+* requirement description : The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. 
+* score : 1.0
+* matched_part :  a period of 100
+* matched_seg :  The WCS system must run queries to the WCS databases once again ( on a specified day ) to update the available data available to CCR users .
+-------------------------------------------
+
+* test case : 150
+* requirement description : A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start - up page .
+-------------------------------------------
+
+* test case : 151
+* requirement description : Users shall be able to view at least 25 NFL player statistics and points on each page. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  Users shall be able to view at least 25 NFL player statistics and points on each page .
+-------------------------------------------
+
+* test case : 155
+* requirement description : The RFS system shall be available 90% of the time all year  and 98% during the budgeting period.  
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The RFS system shall be available 90 % of the time all year   and 98 % during the budgeting period .  
+-------------------------------------------
+
+* test case : 156
+* requirement description : 98% of the user workstations shall meet the minimum hardware requirements prior to implementation. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  98
+-------------------------------------------
+
+* test case : 157
+* requirement description : Minimum Hard Disk Space: 400MB. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  Minimum Hard Disk Space : 400 MB .
+-------------------------------------------
+
+* test case : 158
+* requirement description : 98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  98
+-------------------------------------------
+
+* test case : 162
+* requirement description : 95% of the product look & feel will be approved by the Architecture group  prior to implementation. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  95
+-------------------------------------------
+
+* test case : 164
+* requirement description : The display of all the pages will be correct in 95% of the resolutions  prior to implementation.  
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The display of all the pages
+-------------------------------------------
+
+* test case : 166
+* requirement description : The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The users should be able to easily use the system to successfully complete their budgets   within the stipulated time for completion .
+-------------------------------------------
+
+* test case : 168
+* requirement description : The product interface should be fast for 90% of the time. 
+* score : 1.0
+* matched_part :  for 100 % of
+* matched_seg :  The product interface should be fast for 90 % of the time .
+-------------------------------------------
+

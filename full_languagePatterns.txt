@@ -1,0 +1,1260 @@
+for 100% of  shall  $10
+shall  for 100% of  $10
+for 100% of  shall not $02
+shall not for 100% of  $02
+for 100% of  shall be $10
+shall be for 100% of  $10
+for 100% of  must  $10
+must  for 100% of  $10
+for 100% of  must not $02
+must not for 100% of  $02
+for 100% of  must be $10
+must be for 100% of  $10
+for 100% of  shuold  $10
+shuold  for 100% of  $10
+for 100% of  shuold not $02
+shuold not for 100% of  $02
+for 100% of  shuold be $10
+shuold be for 100% of  $10
+for 100% of  will  $10
+will  for 100% of  $10
+for 100% of  will not $02
+will not for 100% of  $02
+for 100% of  will be $10
+will be for 100% of  $10
+for 100% of  be able to  $10
+be able to  for 100% of  $10
+for 100% of  be able to not $02
+be able to not for 100% of  $02
+for 100% of  be able to be $10
+be able to be for 100% of  $10
+for 100% of  have  $10
+have  for 100% of  $10
+for 100% of  have not $02
+have not for 100% of  $02
+for 100% of  have be $10
+have be for 100% of  $10
+for 100% of  can  $10
+can  for 100% of  $10
+for 100% of  can not $02
+can not for 100% of  $02
+for 100% of  can be $10
+can be for 100% of  $10
+100% of  shall  $10
+shall  100% of  $10
+100% of  shall not $02
+shall not 100% of  $02
+100% of  shall be $10
+shall be 100% of  $10
+100% of  must  $10
+must  100% of  $10
+100% of  must not $02
+must not 100% of  $02
+100% of  must be $10
+must be 100% of  $10
+100% of  shuold  $10
+shuold  100% of  $10
+100% of  shuold not $02
+shuold not 100% of  $02
+100% of  shuold be $10
+shuold be 100% of  $10
+100% of  will  $10
+will  100% of  $10
+100% of  will not $02
+will not 100% of  $02
+100% of  will be $10
+will be 100% of  $10
+100% of  be able to  $10
+be able to  100% of  $10
+100% of  be able to not $02
+be able to not 100% of  $02
+100% of  be able to be $10
+be able to be 100% of  $10
+100% of  have  $10
+have  100% of  $10
+100% of  have not $02
+have not 100% of  $02
+100% of  have be $10
+have be 100% of  $10
+100% of  can  $10
+can  100% of  $10
+100% of  can not $02
+can not 100% of  $02
+100% of  can be $10
+can be 100% of  $10
+within 100  shall  $02
+shall  within 100  $02
+within 100  shall not $10
+shall not within 100  $10
+within 100  shall be $02
+shall be within 100  $02
+within 100  must  $02
+must  within 100  $02
+within 100  must not $10
+must not within 100  $10
+within 100  must be $02
+must be within 100  $02
+within 100  shuold  $02
+shuold  within 100  $02
+within 100  shuold not $10
+shuold not within 100  $10
+within 100  shuold be $02
+shuold be within 100  $02
+within 100  will  $02
+will  within 100  $02
+within 100  will not $10
+will not within 100  $10
+within 100  will be $02
+will be within 100  $02
+within 100  be able to  $02
+be able to  within 100  $02
+within 100  be able to not $10
+be able to not within 100  $10
+within 100  be able to be $02
+be able to be within 100  $02
+within 100  have  $02
+have  within 100  $02
+within 100  have not $10
+have not within 100  $10
+within 100  have be $02
+have be within 100  $02
+within 100  can  $02
+can  within 100  $02
+within 100  can not $10
+can not within 100  $10
+within 100  can be $02
+can be within 100  $02
+no later 100  shall  $02
+shall  no later 100  $02
+no later 100  shall not $10
+shall not no later 100  $10
+no later 100  shall be $02
+shall be no later 100  $02
+no later 100  must  $02
+must  no later 100  $02
+no later 100  must not $10
+must not no later 100  $10
+no later 100  must be $02
+must be no later 100  $02
+no later 100  shuold  $02
+shuold  no later 100  $02
+no later 100  shuold not $10
+shuold not no later 100  $10
+no later 100  shuold be $02
+shuold be no later 100  $02
+no later 100  will  $02
+will  no later 100  $02
+no later 100  will not $10
+will not no later 100  $10
+no later 100  will be $02
+will be no later 100  $02
+no later 100  be able to  $02
+be able to  no later 100  $02
+no later 100  be able to not $10
+be able to not no later 100  $10
+no later 100  be able to be $02
+be able to be no later 100  $02
+no later 100  have  $02
+have  no later 100  $02
+no later 100  have not $10
+have not no later 100  $10
+no later 100  have be $02
+have be no later 100  $02
+no later 100  can  $02
+can  no later 100  $02
+no later 100  can not $10
+can not no later 100  $10
+no later 100  can be $02
+can be no later 100  $02
+be decreased by 100  shall  $02
+shall  be decreased by 100  $02
+be decreased by 100  shall not $10
+shall not be decreased by 100  $10
+be decreased by 100  shall be $02
+shall be be decreased by 100  $02
+be decreased by 100  must  $02
+must  be decreased by 100  $02
+be decreased by 100  must not $10
+must not be decreased by 100  $10
+be decreased by 100  must be $02
+must be be decreased by 100  $02
+be decreased by 100  shuold  $02
+shuold  be decreased by 100  $02
+be decreased by 100  shuold not $10
+shuold not be decreased by 100  $10
+be decreased by 100  shuold be $02
+shuold be be decreased by 100  $02
+be decreased by 100  will  $02
+will  be decreased by 100  $02
+be decreased by 100  will not $10
+will not be decreased by 100  $10
+be decreased by 100  will be $02
+will be be decreased by 100  $02
+be decreased by 100  be able to  $02
+be able to  be decreased by 100  $02
+be decreased by 100  be able to not $10
+be able to not be decreased by 100  $10
+be decreased by 100  be able to be $02
+be able to be be decreased by 100  $02
+be decreased by 100  have  $02
+have  be decreased by 100  $02
+be decreased by 100  have not $10
+have not be decreased by 100  $10
+be decreased by 100  have be $02
+have be be decreased by 100  $02
+be decreased by 100  can  $02
+can  be decreased by 100  $02
+be decreased by 100  can not $10
+can not be decreased by 100  $10
+be decreased by 100  can be $02
+can be be decreased by 100  $02
+out of 100  shall  $10
+shall  out of 100  $10
+out of 100  shall not $02
+shall not out of 100  $02
+out of 100  shall be $10
+shall be out of 100  $10
+out of 100  must  $10
+must  out of 100  $10
+out of 100  must not $02
+must not out of 100  $02
+out of 100  must be $10
+must be out of 100  $10
+out of 100  shuold  $10
+shuold  out of 100  $10
+out of 100  shuold not $02
+shuold not out of 100  $02
+out of 100  shuold be $10
+shuold be out of 100  $10
+out of 100  will  $10
+will  out of 100  $10
+out of 100  will not $02
+will not out of 100  $02
+out of 100  will be $10
+will be out of 100  $10
+out of 100  be able to  $10
+be able to  out of 100  $10
+out of 100  be able to not $02
+be able to not out of 100  $02
+out of 100  be able to be $10
+be able to be out of 100  $10
+out of 100  have  $10
+have  out of 100  $10
+out of 100  have not $02
+have not out of 100  $02
+out of 100  have be $10
+have be out of 100  $10
+out of 100  can  $10
+can  out of 100  $10
+out of 100  can not $02
+can not out of 100  $02
+out of 100  can be $10
+can be out of 100  $10
+no longer than 100  shall  $02
+shall  no longer than 100  $02
+no longer than 100  shall not $10
+shall not no longer than 100  $10
+no longer than 100  shall be $02
+shall be no longer than 100  $02
+no longer than 100  must  $02
+must  no longer than 100  $02
+no longer than 100  must not $10
+must not no longer than 100  $10
+no longer than 100  must be $02
+must be no longer than 100  $02
+no longer than 100  shuold  $02
+shuold  no longer than 100  $02
+no longer than 100  shuold not $10
+shuold not no longer than 100  $10
+no longer than 100  shuold be $02
+shuold be no longer than 100  $02
+no longer than 100  will  $02
+will  no longer than 100  $02
+no longer than 100  will not $10
+will not no longer than 100  $10
+no longer than 100  will be $02
+will be no longer than 100  $02
+no longer than 100  be able to  $02
+be able to  no longer than 100  $02
+no longer than 100  be able to not $10
+be able to not no longer than 100  $10
+no longer than 100  be able to be $02
+be able to be no longer than 100  $02
+no longer than 100  have  $02
+have  no longer than 100  $02
+no longer than 100  have not $10
+have not no longer than 100  $10
+no longer than 100  have be $02
+have be no longer than 100  $02
+no longer than 100  can  $02
+can  no longer than 100  $02
+no longer than 100  can not $10
+can not no longer than 100  $10
+no longer than 100  can be $02
+can be no longer than 100  $02
+no more than 100  shall  $02
+shall  no more than 100  $02
+no more than 100  shall not $10
+shall not no more than 100  $10
+no more than 100  shall be $02
+shall be no more than 100  $02
+no more than 100  must  $02
+must  no more than 100  $02
+no more than 100  must not $10
+must not no more than 100  $10
+no more than 100  must be $02
+must be no more than 100  $02
+no more than 100  shuold  $02
+shuold  no more than 100  $02
+no more than 100  shuold not $10
+shuold not no more than 100  $10
+no more than 100  shuold be $02
+shuold be no more than 100  $02
+no more than 100  will  $02
+will  no more than 100  $02
+no more than 100  will not $10
+will not no more than 100  $10
+no more than 100  will be $02
+will be no more than 100  $02
+no more than 100  be able to  $02
+be able to  no more than 100  $02
+no more than 100  be able to not $10
+be able to not no more than 100  $10
+no more than 100  be able to be $02
+be able to be no more than 100  $02
+no more than 100  have  $02
+have  no more than 100  $02
+no more than 100  have not $10
+have not no more than 100  $10
+no more than 100  have be $02
+have be no more than 100  $02
+no more than 100  can  $02
+can  no more than 100  $02
+no more than 100  can not $10
+can not no more than 100  $10
+no more than 100  can be $02
+can be no more than 100  $02
+in under 100  shall  $02
+shall  in under 100  $02
+in under 100  shall not $10
+shall not in under 100  $10
+in under 100  shall be $02
+shall be in under 100  $02
+in under 100  must  $02
+must  in under 100  $02
+in under 100  must not $10
+must not in under 100  $10
+in under 100  must be $02
+must be in under 100  $02
+in under 100  shuold  $02
+shuold  in under 100  $02
+in under 100  shuold not $10
+shuold not in under 100  $10
+in under 100  shuold be $02
+shuold be in under 100  $02
+in under 100  will  $02
+will  in under 100  $02
+in under 100  will not $10
+will not in under 100  $10
+in under 100  will be $02
+will be in under 100  $02
+in under 100  be able to  $02
+be able to  in under 100  $02
+in under 100  be able to not $10
+be able to not in under 100  $10
+in under 100  be able to be $02
+be able to be in under 100  $02
+in under 100  have  $02
+have  in under 100  $02
+in under 100  have not $10
+have not in under 100  $10
+in under 100  have be $02
+have be in under 100  $02
+in under 100  can  $02
+can  in under 100  $02
+in under 100  can not $10
+can not in under 100  $10
+in under 100  can be $02
+can be in under 100  $02
+less than 100  shall  $02
+shall  less than 100  $02
+less than 100  shall not $10
+shall not less than 100  $10
+less than 100  shall be $02
+shall be less than 100  $02
+less than 100  must  $02
+must  less than 100  $02
+less than 100  must not $10
+must not less than 100  $10
+less than 100  must be $02
+must be less than 100  $02
+less than 100  shuold  $02
+shuold  less than 100  $02
+less than 100  shuold not $10
+shuold not less than 100  $10
+less than 100  shuold be $02
+shuold be less than 100  $02
+less than 100  will  $02
+will  less than 100  $02
+less than 100  will not $10
+will not less than 100  $10
+less than 100  will be $02
+will be less than 100  $02
+less than 100  be able to  $02
+be able to  less than 100  $02
+less than 100  be able to not $10
+be able to not less than 100  $10
+less than 100  be able to be $02
+be able to be less than 100  $02
+less than 100  have  $02
+have  less than 100  $02
+less than 100  have not $10
+have not less than 100  $10
+less than 100  have be $02
+have be less than 100  $02
+less than 100  can  $02
+can  less than 100  $02
+less than 100  can not $10
+can not less than 100  $10
+less than 100  can be $02
+can be less than 100  $02
+a period of 100  shall  $12
+shall  a period of 100  $12
+a period of 100  shall not $
+shall not a period of 100  $
+a period of 100  shall be $12
+shall be a period of 100  $12
+a period of 100  must  $12
+must  a period of 100  $12
+a period of 100  must not $
+must not a period of 100  $
+a period of 100  must be $12
+must be a period of 100  $12
+a period of 100  shuold  $12
+shuold  a period of 100  $12
+a period of 100  shuold not $
+shuold not a period of 100  $
+a period of 100  shuold be $12
+shuold be a period of 100  $12
+a period of 100  will  $12
+will  a period of 100  $12
+a period of 100  will not $
+will not a period of 100  $
+a period of 100  will be $12
+will be a period of 100  $12
+a period of 100  be able to  $12
+be able to  a period of 100  $12
+a period of 100  be able to not $
+be able to not a period of 100  $
+a period of 100  be able to be $12
+be able to be a period of 100  $12
+a period of 100  have  $12
+have  a period of 100  $12
+a period of 100  have not $
+have not a period of 100  $
+a period of 100  have be $12
+have be a period of 100  $12
+a period of 100  can  $12
+can  a period of 100  $12
+a period of 100  can not $
+can not a period of 100  $
+a period of 100  can be $12
+can be a period of 100  $12
+exceed 100  shall  $10
+shall  exceed 100  $10
+exceed 100  shall not $02
+shall not exceed 100  $02
+exceed 100  shall be $10
+shall be exceed 100  $10
+exceed 100  must  $10
+must  exceed 100  $10
+exceed 100  must not $02
+must not exceed 100  $02
+exceed 100  must be $10
+must be exceed 100  $10
+exceed 100  shuold  $10
+shuold  exceed 100  $10
+exceed 100  shuold not $02
+shuold not exceed 100  $02
+exceed 100  shuold be $10
+shuold be exceed 100  $10
+exceed 100  will  $10
+will  exceed 100  $10
+exceed 100  will not $02
+will not exceed 100  $02
+exceed 100  will be $10
+will be exceed 100  $10
+exceed 100  be able to  $10
+be able to  exceed 100  $10
+exceed 100  be able to not $02
+be able to not exceed 100  $02
+exceed 100  be able to be $10
+be able to be exceed 100  $10
+exceed 100  have  $10
+have  exceed 100  $10
+exceed 100  have not $02
+have not exceed 100  $02
+exceed 100  have be $10
+have be exceed 100  $10
+exceed 100  can  $10
+can  exceed 100  $10
+exceed 100  can not $02
+can not exceed 100  $02
+exceed 100  can be $10
+can be exceed 100  $10
+hours of 100  shall  $12
+shall  hours of 100  $12
+hours of 100  shall not $21
+shall not hours of 100  $21
+hours of 100  shall be $12
+shall be hours of 100  $12
+hours of 100  must  $12
+must  hours of 100  $12
+hours of 100  must not $21
+must not hours of 100  $21
+hours of 100  must be $12
+must be hours of 100  $12
+hours of 100  shuold  $12
+shuold  hours of 100  $12
+hours of 100  shuold not $21
+shuold not hours of 100  $21
+hours of 100  shuold be $12
+shuold be hours of 100  $12
+hours of 100  will  $12
+will  hours of 100  $12
+hours of 100  will not $21
+will not hours of 100  $21
+hours of 100  will be $12
+will be hours of 100  $12
+hours of 100  be able to  $12
+be able to  hours of 100  $12
+hours of 100  be able to not $21
+be able to not hours of 100  $21
+hours of 100  be able to be $12
+be able to be hours of 100  $12
+hours of 100  have  $12
+have  hours of 100  $12
+hours of 100  have not $21
+have not hours of 100  $21
+hours of 100  have be $12
+have be hours of 100  $12
+hours of 100  can  $12
+can  hours of 100  $12
+hours of 100  can not $21
+can not hours of 100  $21
+hours of 100  can be $12
+can be hours of 100  $12
+time of 100  shall  $12
+shall  time of 100  $12
+time of 100  shall not $21
+shall not time of 100  $21
+time of 100  shall be $12
+shall be time of 100  $12
+time of 100  must  $12
+must  time of 100  $12
+time of 100  must not $21
+must not time of 100  $21
+time of 100  must be $12
+must be time of 100  $12
+time of 100  shuold  $12
+shuold  time of 100  $12
+time of 100  shuold not $21
+shuold not time of 100  $21
+time of 100  shuold be $12
+shuold be time of 100  $12
+time of 100  will  $12
+will  time of 100  $12
+time of 100  will not $21
+will not time of 100  $21
+time of 100  will be $12
+will be time of 100  $12
+time of 100  be able to  $12
+be able to  time of 100  $12
+time of 100  be able to not $21
+be able to not time of 100  $21
+time of 100  be able to be $12
+be able to be time of 100  $12
+time of 100  have  $12
+have  time of 100  $12
+time of 100  have not $21
+have not time of 100  $21
+time of 100  have be $12
+have be time of 100  $12
+time of 100  can  $12
+can  time of 100  $12
+time of 100  can not $21
+can not time of 100  $21
+time of 100  can be $12
+can be time of 100  $12
+maximum of 100  shall  $02
+shall  maximum of 100  $02
+maximum of 100  shall not $10
+shall not maximum of 100  $10
+maximum of 100  shall be $02
+shall be maximum of 100  $02
+maximum of 100  must  $02
+must  maximum of 100  $02
+maximum of 100  must not $10
+must not maximum of 100  $10
+maximum of 100  must be $02
+must be maximum of 100  $02
+maximum of 100  shuold  $02
+shuold  maximum of 100  $02
+maximum of 100  shuold not $10
+shuold not maximum of 100  $10
+maximum of 100  shuold be $02
+shuold be maximum of 100  $02
+maximum of 100  will  $02
+will  maximum of 100  $02
+maximum of 100  will not $10
+will not maximum of 100  $10
+maximum of 100  will be $02
+will be maximum of 100  $02
+maximum of 100  be able to  $02
+be able to  maximum of 100  $02
+maximum of 100  be able to not $10
+be able to not maximum of 100  $10
+maximum of 100  be able to be $02
+be able to be maximum of 100  $02
+maximum of 100  have  $02
+have  maximum of 100  $02
+maximum of 100  have not $10
+have not maximum of 100  $10
+maximum of 100  have be $02
+have be maximum of 100  $02
+maximum of 100  can  $02
+can  maximum of 100  $02
+maximum of 100  can not $10
+can not maximum of 100  $10
+maximum of 100  can be $02
+can be maximum of 100  $02
+on 100  shall  $12
+shall  on 100  $12
+on 100  shall not $21
+shall not on 100  $21
+on 100  shall be $12
+shall be on 100  $12
+on 100  must  $12
+must  on 100  $12
+on 100  must not $21
+must not on 100  $21
+on 100  must be $12
+must be on 100  $12
+on 100  shuold  $12
+shuold  on 100  $12
+on 100  shuold not $21
+shuold not on 100  $21
+on 100  shuold be $12
+shuold be on 100  $12
+on 100  will  $12
+will  on 100  $12
+on 100  will not $21
+will not on 100  $21
+on 100  will be $12
+will be on 100  $12
+on 100  be able to  $12
+be able to  on 100  $12
+on 100  be able to not $21
+be able to not on 100  $21
+on 100  be able to be $12
+be able to be on 100  $12
+on 100  have  $12
+have  on 100  $12
+on 100  have not $21
+have not on 100  $21
+on 100  have be $12
+have be on 100  $12
+on 100  can  $12
+can  on 100  $12
+on 100  can not $21
+can not on 100  $21
+on 100  can be $12
+can be on 100  $12
+be avilable 100  shall  $10
+shall  be avilable 100  $10
+be avilable 100  shall not $02
+shall not be avilable 100  $02
+be avilable 100  shall be $10
+shall be be avilable 100  $10
+be avilable 100  must  $10
+must  be avilable 100  $10
+be avilable 100  must not $02
+must not be avilable 100  $02
+be avilable 100  must be $10
+must be be avilable 100  $10
+be avilable 100  shuold  $10
+shuold  be avilable 100  $10
+be avilable 100  shuold not $02
+shuold not be avilable 100  $02
+be avilable 100  shuold be $10
+shuold be be avilable 100  $10
+be avilable 100  will  $10
+will  be avilable 100  $10
+be avilable 100  will not $02
+will not be avilable 100  $02
+be avilable 100  will be $10
+will be be avilable 100  $10
+be avilable 100  be able to  $10
+be able to  be avilable 100  $10
+be avilable 100  be able to not $02
+be able to not be avilable 100  $02
+be avilable 100  be able to be $10
+be able to be be avilable 100  $10
+be avilable 100  have  $10
+have  be avilable 100  $10
+be avilable 100  have not $02
+have not be avilable 100  $02
+be avilable 100  have be $10
+have be be avilable 100  $10
+be avilable 100  can  $10
+can  be avilable 100  $10
+be avilable 100  can not $02
+can not be avilable 100  $02
+be avilable 100  can be $10
+can be be avilable 100  $10
+support 100  shall  $10
+shall  support 100  $10
+support 100  shall not $02
+shall not support 100  $02
+support 100  shall be $10
+shall be support 100  $10
+support 100  must  $10
+must  support 100  $10
+support 100  must not $02
+must not support 100  $02
+support 100  must be $10
+must be support 100  $10
+support 100  shuold  $10
+shuold  support 100  $10
+support 100  shuold not $02
+shuold not support 100  $02
+support 100  shuold be $10
+shuold be support 100  $10
+support 100  will  $10
+will  support 100  $10
+support 100  will not $02
+will not support 100  $02
+support 100  will be $10
+will be support 100  $10
+support 100  be able to  $10
+be able to  support 100  $10
+support 100  be able to not $02
+be able to not support 100  $02
+support 100  be able to be $10
+be able to be support 100  $10
+support 100  have  $10
+have  support 100  $10
+support 100  have not $02
+have not support 100  $02
+support 100  have be $10
+have be support 100  $10
+support 100  can  $10
+can  support 100  $10
+support 100  can not $02
+can not support 100  $02
+support 100  can be $10
+can be support 100  $10
+will be 100  shall  $12
+shall  will be 100  $12
+will be 100  shall not $21
+shall not will be 100  $21
+will be 100  shall be $12
+shall be will be 100  $12
+will be 100  must  $12
+must  will be 100  $12
+will be 100  must not $21
+must not will be 100  $21
+will be 100  must be $12
+must be will be 100  $12
+will be 100  shuold  $12
+shuold  will be 100  $12
+will be 100  shuold not $21
+shuold not will be 100  $21
+will be 100  shuold be $12
+shuold be will be 100  $12
+will be 100  will  $12
+will  will be 100  $12
+will be 100  will not $21
+will not will be 100  $21
+will be 100  will be $12
+will be will be 100  $12
+will be 100  be able to  $12
+be able to  will be 100  $12
+will be 100  be able to not $21
+be able to not will be 100  $21
+will be 100  be able to be $12
+be able to be will be 100  $12
+will be 100  have  $12
+have  will be 100  $12
+will be 100  have not $21
+have not will be 100  $21
+will be 100  have be $12
+have be will be 100  $12
+will be 100  can  $12
+can  will be 100  $12
+will be 100  can not $21
+can not will be 100  $21
+will be 100  can be $12
+can be will be 100  $12
+approximately 100  shall  $12
+shall  approximately 100  $12
+approximately 100  shall not $21
+shall not approximately 100  $21
+approximately 100  shall be $12
+shall be approximately 100  $12
+approximately 100  must  $12
+must  approximately 100  $12
+approximately 100  must not $21
+must not approximately 100  $21
+approximately 100  must be $12
+must be approximately 100  $12
+approximately 100  shuold  $12
+shuold  approximately 100  $12
+approximately 100  shuold not $21
+shuold not approximately 100  $21
+approximately 100  shuold be $12
+shuold be approximately 100  $12
+approximately 100  will  $12
+will  approximately 100  $12
+approximately 100  will not $21
+will not approximately 100  $21
+approximately 100  will be $12
+will be approximately 100  $12
+approximately 100  be able to  $12
+be able to  approximately 100  $12
+approximately 100  be able to not $21
+be able to not approximately 100  $21
+approximately 100  be able to be $12
+be able to be approximately 100  $12
+approximately 100  have  $12
+have  approximately 100  $12
+approximately 100  have not $21
+have not approximately 100  $21
+approximately 100  have be $12
+have be approximately 100  $12
+approximately 100  can  $12
+can  approximately 100  $12
+approximately 100  can not $21
+can not approximately 100  $21
+approximately 100  can be $12
+can be approximately 100  $12
+reamain 100  shall  $12
+shall  reamain 100  $12
+reamain 100  shall not $21
+shall not reamain 100  $21
+reamain 100  shall be $12
+shall be reamain 100  $12
+reamain 100  must  $12
+must  reamain 100  $12
+reamain 100  must not $21
+must not reamain 100  $21
+reamain 100  must be $12
+must be reamain 100  $12
+reamain 100  shuold  $12
+shuold  reamain 100  $12
+reamain 100  shuold not $21
+shuold not reamain 100  $21
+reamain 100  shuold be $12
+shuold be reamain 100  $12
+reamain 100  will  $12
+will  reamain 100  $12
+reamain 100  will not $21
+will not reamain 100  $21
+reamain 100  will be $12
+will be reamain 100  $12
+reamain 100  be able to  $12
+be able to  reamain 100  $12
+reamain 100  be able to not $21
+be able to not reamain 100  $21
+reamain 100  be able to be $12
+be able to be reamain 100  $12
+reamain 100  have  $12
+have  reamain 100  $12
+reamain 100  have not $21
+have not reamain 100  $21
+reamain 100  have be $12
+have be reamain 100  $12
+reamain 100  can  $12
+can  reamain 100  $12
+reamain 100  can not $21
+can not reamain 100  $21
+reamain 100  can be $12
+can be reamain 100  $12
+in 100  shall  $02
+shall  in 100  $02
+in 100  shall not $10
+shall not in 100  $10
+in 100  shall be $02
+shall be in 100  $02
+in 100  must  $02
+must  in 100  $02
+in 100  must not $10
+must not in 100  $10
+in 100  must be $02
+must be in 100  $02
+in 100  shuold  $02
+shuold  in 100  $02
+in 100  shuold not $10
+shuold not in 100  $10
+in 100  shuold be $02
+shuold be in 100  $02
+in 100  will  $02
+will  in 100  $02
+in 100  will not $10
+will not in 100  $10
+in 100  will be $02
+will be in 100  $02
+in 100  be able to  $02
+be able to  in 100  $02
+in 100  be able to not $10
+be able to not in 100  $10
+in 100  be able to be $02
+be able to be in 100  $02
+in 100  have  $02
+have  in 100  $02
+in 100  have not $10
+have not in 100  $10
+in 100  have be $02
+have be in 100  $02
+in 100  can  $02
+can  in 100  $02
+in 100  can not $10
+can not in 100  $10
+in 100  can be $02
+can be in 100  $02
+to 100  shall  $12
+shall  to 100  $12
+to 100  shall not $21
+shall not to 100  $21
+to 100  shall be $12
+shall be to 100  $12
+to 100  must  $12
+must  to 100  $12
+to 100  must not $21
+must not to 100  $21
+to 100  must be $12
+must be to 100  $12
+to 100  shuold  $12
+shuold  to 100  $12
+to 100  shuold not $21
+shuold not to 100  $21
+to 100  shuold be $12
+shuold be to 100  $12
+to 100  will  $12
+will  to 100  $12
+to 100  will not $21
+will not to 100  $21
+to 100  will be $12
+will be to 100  $12
+to 100  be able to  $12
+be able to  to 100  $12
+to 100  be able to not $21
+be able to not to 100  $21
+to 100  be able to be $12
+be able to be to 100  $12
+to 100  have  $12
+have  to 100  $12
+to 100  have not $21
+have not to 100  $21
+to 100  have be $12
+have be to 100  $12
+to 100  can  $12
+can  to 100  $12
+to 100  can not $21
+can not to 100  $21
+to 100  can be $12
+can be to 100  $12
+up to 100  shall  $10
+shall  up to 100  $10
+up to 100  shall not $02
+shall not up to 100  $02
+up to 100  shall be $10
+shall be up to 100  $10
+up to 100  must  $10
+must  up to 100  $10
+up to 100  must not $02
+must not up to 100  $02
+up to 100  must be $10
+must be up to 100  $10
+up to 100  shuold  $10
+shuold  up to 100  $10
+up to 100  shuold not $02
+shuold not up to 100  $02
+up to 100  shuold be $10
+shuold be up to 100  $10
+up to 100  will  $10
+will  up to 100  $10
+up to 100  will not $02
+will not up to 100  $02
+up to 100  will be $10
+will be up to 100  $10
+up to 100  be able to  $10
+be able to  up to 100  $10
+up to 100  be able to not $02
+be able to not up to 100  $02
+up to 100  be able to be $10
+be able to be up to 100  $10
+up to 100  have  $10
+have  up to 100  $10
+up to 100  have not $02
+have not up to 100  $02
+up to 100  have be $10
+have be up to 100  $10
+up to 100  can  $10
+can  up to 100  $10
+up to 100  can not $02
+can not up to 100  $02
+up to 100  can be $10
+can be up to 100  $10
+in every 100  shall  $02
+shall  in every 100  $02
+in every 100  shall not $10
+shall not in every 100  $10
+in every 100  shall be $02
+shall be in every 100  $02
+in every 100  must  $02
+must  in every 100  $02
+in every 100  must not $10
+must not in every 100  $10
+in every 100  must be $02
+must be in every 100  $02
+in every 100  shuold  $02
+shuold  in every 100  $02
+in every 100  shuold not $10
+shuold not in every 100  $10
+in every 100  shuold be $02
+shuold be in every 100  $02
+in every 100  will  $02
+will  in every 100  $02
+in every 100  will not $10
+will not in every 100  $10
+in every 100  will be $02
+will be in every 100  $02
+in every 100  be able to  $02
+be able to  in every 100  $02
+in every 100  be able to not $10
+be able to not in every 100  $10
+in every 100  be able to be $02
+be able to be in every 100  $02
+in every 100  have  $02
+have  in every 100  $02
+in every 100  have not $10
+have not in every 100  $10
+in every 100  have be $02
+have be in every 100  $02
+in every 100  can  $02
+can  in every 100  $02
+in every 100  can not $10
+can not in every 100  $10
+in every 100  can be $02
+can be in every 100  $02
+of 100  shall  $12
+shall  of 100  $12
+of 100  shall not $21
+shall not of 100  $21
+of 100  shall be $12
+shall be of 100  $12
+of 100  must  $12
+must  of 100  $12
+of 100  must not $21
+must not of 100  $21
+of 100  must be $12
+must be of 100  $12
+of 100  shuold  $12
+shuold  of 100  $12
+of 100  shuold not $21
+shuold not of 100  $21
+of 100  shuold be $12
+shuold be of 100  $12
+of 100  will  $12
+will  of 100  $12
+of 100  will not $21
+will not of 100  $21
+of 100  will be $12
+will be of 100  $12
+of 100  be able to  $12
+be able to  of 100  $12
+of 100  be able to not $21
+be able to not of 100  $21
+of 100  be able to be $12
+be able to be of 100  $12
+of 100  have  $12
+have  of 100  $12
+of 100  have not $21
+have not of 100  $21
+of 100  have be $12
+have be of 100  $12
+of 100  can  $12
+can  of 100  $12
+of 100  can not $21
+can not of 100  $21
+of 100  can be $12
+can be of 100  $12
+at least 100  shall  $10
+shall  at least 100  $10
+at least 100  shall not $02
+shall not at least 100  $02
+at least 100  shall be $10
+shall be at least 100  $10
+at least 100  must  $10
+must  at least 100  $10
+at least 100  must not $02
+must not at least 100  $02
+at least 100  must be $10
+must be at least 100  $10
+at least 100  shuold  $10
+shuold  at least 100  $10
+at least 100  shuold not $02
+shuold not at least 100  $02
+at least 100  shuold be $10
+shuold be at least 100  $10
+at least 100  will  $10
+will  at least 100  $10
+at least 100  will not $02
+will not at least 100  $02
+at least 100  will be $10
+will be at least 100  $10
+at least 100  be able to  $10
+be able to  at least 100  $10
+at least 100  be able to not $02
+be able to not at least 100  $02
+at least 100  be able to be $10
+be able to be at least 100  $10
+at least 100  have  $10
+have  at least 100  $10
+at least 100  have not $02
+have not at least 100  $02
+at least 100  have be $10
+have be at least 100  $10
+at least 100  can  $10
+can  at least 100  $10
+at least 100  can not $02
+can not at least 100  $02
+at least 100  can be $10
+can be at least 100  $10
+more than 100  shall  $10
+shall  more than 100  $10
+more than 100  shall not $02
+shall not more than 100  $02
+more than 100  shall be $10
+shall be more than 100  $10
+more than 100  must  $10
+must  more than 100  $10
+more than 100  must not $02
+must not more than 100  $02
+more than 100  must be $10
+must be more than 100  $10
+more than 100  shuold  $10
+shuold  more than 100  $10
+more than 100  shuold not $02
+shuold not more than 100  $02
+more than 100  shuold be $10
+shuold be more than 100  $10
+more than 100  will  $10
+will  more than 100  $10
+more than 100  will not $02
+will not more than 100  $02
+more than 100  will be $10
+will be more than 100  $10
+more than 100  be able to  $10
+be able to  more than 100  $10
+more than 100  be able to not $02
+be able to not more than 100  $02
+more than 100  be able to be $10
+be able to be more than 100  $10
+more than 100  have  $10
+have  more than 100  $10
+more than 100  have not $02
+have not more than 100  $02
+more than 100  have be $10
+have be more than 100  $10
+more than 100  can  $10
+can  more than 100  $10
+more than 100  can not $02
+can not more than 100  $02
+more than 100  can be $10
+can be more than 100  $10
+minimum of 100  shall  $10
+shall  minimum of 100  $10
+minimum of 100  shall not $02
+shall not minimum of 100  $02
+minimum of 100  shall be $10
+shall be minimum of 100  $10
+minimum of 100  must  $10
+must  minimum of 100  $10
+minimum of 100  must not $02
+must not minimum of 100  $02
+minimum of 100  must be $10
+must be minimum of 100  $10
+minimum of 100  shuold  $10
+shuold  minimum of 100  $10
+minimum of 100  shuold not $02
+shuold not minimum of 100  $02
+minimum of 100  shuold be $10
+shuold be minimum of 100  $10
+minimum of 100  will  $10
+will  minimum of 100  $10
+minimum of 100  will not $02
+will not minimum of 100  $02
+minimum of 100  will be $10
+will be minimum of 100  $10
+minimum of 100  be able to  $10
+be able to  minimum of 100  $10
+minimum of 100  be able to not $02
+be able to not minimum of 100  $02
+minimum of 100  be able to be $10
+be able to be minimum of 100  $10
+minimum of 100  have  $10
+have  minimum of 100  $10
+minimum of 100  have not $02
+have not minimum of 100  $02
+minimum of 100  have be $10
+have be minimum of 100  $10
+minimum of 100  can  $10
+can  minimum of 100  $10
+minimum of 100  can not $02
+can not minimum of 100  $02
+minimum of 100  can be $10
+can be minimum of 100  $10
+after 100  shall  $10
+shall  after 100  $10
+after 100  shall not $02
+shall not after 100  $02
+after 100  shall be $10
+shall be after 100  $10
+after 100  must  $10
+must  after 100  $10
+after 100  must not $02
+must not after 100  $02
+after 100  must be $10
+must be after 100  $10
+after 100  shuold  $10
+shuold  after 100  $10
+after 100  shuold not $02
+shuold not after 100  $02
+after 100  shuold be $10
+shuold be after 100  $10
+after 100  will  $10
+will  after 100  $10
+after 100  will not $02
+will not after 100  $02
+after 100  will be $10
+will be after 100  $10
+after 100  be able to  $10
+be able to  after 100  $10
+after 100  be able to not $02
+be able to not after 100  $02
+after 100  be able to be $10
+be able to be after 100  $10
+after 100  have  $10
+have  after 100  $10
+after 100  have not $02
+have not after 100  $02
+after 100  have be $10
+have be after 100  $10
+after 100  can  $10
+can  after 100  $10
+after 100  can not $02
+can not after 100  $02
+after 100  can be $10
+can be after 100  $10

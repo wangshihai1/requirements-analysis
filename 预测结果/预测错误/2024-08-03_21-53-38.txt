@@ -1,0 +1,392 @@
+* test case : 2
+* requirement description : If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30 
+* score : 1.0
+* matched_part :  on 100
+* matched_seg :  on a 10x10 projection screen  
+-------------------------------------------
+
+* test case : 4
+* requirement description : If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100 
+* score : 1.0
+* matched_part :  on 100
+* matched_seg :  on a 10x10 projection screen  
+-------------------------------------------
+
+* test case : 6
+* requirement description : The product shall respond fast to keep up-to-date data in the display. 
+* score : 0.6666666666666666
+* matched_part :  up to 100
+* matched_seg :  the product shall respond fast to keep up - to - date data in the display .
+-------------------------------------------
+
+* test case : 16
+* requirement description : The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year. 
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  the product shall be capable of handling the existing 1000 users .
+-------------------------------------------
+
+* test case : 22
+* requirement description : system shall be able to handle all of the user requests/usage during business hours. 
+* score : 0.5
+* matched_part :  be 100
+* matched_seg :  system shall be able to handle all of the user requests / usage during business hours .
+-------------------------------------------
+
+* test case : 31
+* requirement description : The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ?Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST 
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :  the disputes application shall be available 24x7x365   with the exception of the following scheduled maintenance windows .   monday ?
+-------------------------------------------
+
+* test case : 32
+* requirement description : The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  the cardmember information database provides detailed information with regard to a cardmember .  
+-------------------------------------------
+
+* test case : 33
+* requirement description : The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  the merchant information database provides detailed information with regard to the merchant .
+-------------------------------------------
+
+* test case : 34
+* requirement description : The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  this will allow the disputes application to request letters as part of the dispute initiation and dispute follow up process .
+-------------------------------------------
+
+* test case : 35
+* requirement description : The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant抯 accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  this will allow the disputes application to request adjustments to cardmember and merchant抯 accounts .
+-------------------------------------------
+
+* test case : 36
+* requirement description : All additions of new users and modifications to user抯 access shall be recorded on the User Report. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  all additions of new users and modifications to user抯 access
+-------------------------------------------
+
+* test case : 37
+* requirement description : All updates to data files or database must be initiated from the Disputes System. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  all updates to data files or database
+-------------------------------------------
+
+* test case : 38
+* requirement description : All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations. 
+* score : 0.5
+* matched_part :  in 100
+* matched_seg :  all business rules specified in the disputes system
+-------------------------------------------
+
+* test case : 39
+* requirement description : All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z. 
+* score : 0.5
+* matched_part :  in 100
+* matched_seg :  all business rules specified in the disputes system
+-------------------------------------------
+
+* test case : 40
+* requirement description : All actions that modify an existing dispute case must be recorded in the case history. 
+* score : 0.5
+* matched_part :  be 100
+* matched_seg :  be
+-------------------------------------------
+
+* test case : 51
+* requirement description : The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  the product shall be able to handle 10 000 concurrent users within 2 years of the initial launch .
+-------------------------------------------
+
+* test case : 56
+* requirement description : The response shall be fast enough to avoid interrupting the user抯 flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of tasks
+-------------------------------------------
+
+* test case : 57
+* requirement description : Aside from server failure  the software product shall achieve 99.99% up time. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :  aside from server failure   the software product shall achieve 99.99 % up time .
+-------------------------------------------
+
+* test case : 70
+* requirement description : The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :  the product and/or adjacent hardware / software systems data shall remain 100 % uncorrupted each time malicious data is input into the product .
+-------------------------------------------
+
+* test case : 71
+* requirement description : The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product and/or dependent databases / filesystems shall not crash 100 % of the time that malicious data is input into the product .
+-------------------------------------------
+
+* test case : 75
+* requirement description : Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min. 
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  recreation of inventory quantity adjustment for the period of previous 30 days
+-------------------------------------------
+
+* test case : 94
+* requirement description : Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+* score : 1.0
+* matched_part :  time of 100
+* matched_seg :  any interface between a user and the automated system shall have a maximum response time of 5 seconds   unless noted by an exception below .
+-------------------------------------------
+
+* test case : 95
+* requirement description : When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
+* score : 1.0
+* matched_part :  time of 100
+* matched_seg :  when purchasing a streaming movie or pre - paid card via credit card   the processing time should have a maximum response time of 15 seconds .
+-------------------------------------------
+
+* test case : 97
+* requirement description : The website shall be available for use 24 hours per day  365 days per year. 
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :  the website shall be available for use 24 hours per day   365 days per year .
+-------------------------------------------
+
+* test case : 98
+* requirement description : The website shall achieve 99.5% up time. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :  the website shall achieve 99.5 % up time .
+-------------------------------------------
+
+* test case : 99
+* requirement description : All movies shall be streamed on demand  at any time of the day. 
+* score : 0.6666666666666666
+* matched_part :  time of 100
+* matched_seg :  all movies shall be streamed on demand   at any time of the day .
+-------------------------------------------
+
+* test case : 102
+* requirement description : The server will support a maximum of 1000 simultaneous users. 
+* score : 1.0
+* matched_part :  maximum of 100
+* matched_seg :  the server will support a maximum of 1000 simultaneous users .
+-------------------------------------------
+
+* test case : 103
+* requirement description : The website shall be capable of supporting 100 000 customers. 
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  the website shall be capable of supporting 100 000 customers .
+-------------------------------------------
+
+* test case : 105
+* requirement description : Promotional updates to the website should take a day to update. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  promotional updates to the website
+-------------------------------------------
+
+* test case : 112
+* requirement description : Total lead cycle time must be completed for 99% of lead volume during off business hours. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  total lead cycle time must be completed for 99 % of lead volume during off business hours .
+-------------------------------------------
+
+* test case : 117
+* requirement description : The product shall be available 24 hours per day  seven days per week. 
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :  the product shall be available 24 hours per day   seven days per week .
+-------------------------------------------
+
+* test case : 118
+* requirement description : The product shall able to handle a large number of games simultaneously. 
+* score : 0.5
+* matched_part :  a period of 100
+* matched_seg :  the product shall able to handle a large number of games simultaneously .
+-------------------------------------------
+
+* test case : 127
+* requirement description : On a 56k connection  the system response time for all operations must be no more than 6 seconds. 
+* score : 1.0
+* matched_part :  on 100
+* matched_seg :  on a 56k connection  
+-------------------------------------------
+
+* test case : 129
+* requirement description : On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds. 
+* score : 1.0
+* matched_part :  on 100
+* matched_seg :  on a 112k connection or faster   the system response time for all operations
+-------------------------------------------
+
+* test case : 131
+* requirement description : The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year. 
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :  the system shall have high availability every day of the year.the system must be available for use between 12:00am and 6:00pm all days of the year .
+-------------------------------------------
+
+* test case : 132
+* requirement description : The system must be available for use between 7:00AM and 11:59PM all days of the year. 
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :  the system must be available for use between 7:00am and 11:59pm all days of the year .
+-------------------------------------------
+
+* test case : 134
+* requirement description : The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product shall provide error tracking services.the product shall help the system administrators and dbas to resolve transaction errors 99 % of the time .
+-------------------------------------------
+
+* test case : 135
+* requirement description : The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds. 
+* score : 1.0
+* matched_part :  time of 100
+* matched_seg :  the product shall process messages within 2 seconds.the product shall have a maximum message processing time of 2 seconds .
+-------------------------------------------
+
+* test case : 136
+* requirement description : The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second. 
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  the product shall poll the system for messages every second.the product shall poll the system for new messages at a maximum of every 1 second .
+-------------------------------------------
+
+* test case : 137
+* requirement description : The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product shall be available 99 % of the time .
+-------------------------------------------
+
+* test case : 140
+* requirement description : The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes. 
+* score : 0.6666666666666666
+* matched_part :  minimum of 100
+* matched_seg :  the product shall have audit capabilities.the product shall store messages for a minimum of one year for audit and transaction tracking purposes .
+-------------------------------------------
+
+* test case : 142
+* requirement description : Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). 
+* score : 0.5
+* matched_part :  be 100
+* matched_seg :  rreports must be easy to generate .
+-------------------------------------------
+
+* test case : 145
+* requirement description : The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users. 
+* score : 0.3333333333333333
+* matched_part :  decreased by 100
+* matched_seg :  the wcs system shall use appropriate nomenclature and terminology as defined by the corporate community grants organization .
+-------------------------------------------
+
+* test case : 146
+* requirement description : The WCS system shall be available at all times as long as IBM抯 internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM抯 internal intranet W3 is available. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the wcs system will be available 95 % of the time ibm抯 internal intranet w3 is available .
+-------------------------------------------
+
+* test case : 148
+* requirement description : The message board shall contain the 5 most recently posted messages on the league page. 
+* score : 0.5
+* matched_part :  within 100
+* matched_seg :  the message board shall contain the 5 most recently posted messages on the league page .
+-------------------------------------------
+
+* test case : 149
+* requirement description : The messages will contain up to the first 150 characters of the message. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  the messages will contain up to the first 150 characters of the message .
+-------------------------------------------
+
+* test case : 152
+* requirement description : The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network. 
+* score : 0.5
+* matched_part :  a period of 100
+* matched_seg :  the application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network .
+-------------------------------------------
+
+* test case : 153
+* requirement description : The application shall have a downtime of at most 10 minutes per year. 
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  the application shall have a downtime of at most 10 minutes per year .
+-------------------------------------------
+
+* test case : 154
+* requirement description : The RFS system should be available 24/7  especially during the budgeting period.  
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :  the rfs system should be available 24/7   especially during the budgeting period .  
+-------------------------------------------
+
+* test case : 160
+* requirement description : Test files shall be loaded up to 5 times throughout the year from the BDW. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  test files shall be loaded up to 5 times throughout the year from the bdw .
+-------------------------------------------
+
+* test case : 161
+* requirement description : New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  100 % of the entities ( mentioned above )
+-------------------------------------------
+
+* test case : 163
+* requirement description : The remaining 5% will be corrected and approved within one month of product release. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the remaining 5 % will be corrected and approved within one month of product release .
+-------------------------------------------
+
+* test case : 165
+* requirement description : The remaining 5% will be corrected within a week of notification of the incorrect display. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the remaining 5 % will be corrected within a week of notification of the incorrect display .
+-------------------------------------------
+
+* test case : 167
+* requirement description : The product interface should be fast. The response time of the product interface should not exceed 2 seconds. 
+* score : 1.0
+* matched_part :  exceed 100
+* matched_seg :  the response time of the product interface should not exceed 2 seconds .
+-------------------------------------------
+
+* test case : 169
+* requirement description : the response time should not be more than 10 seconds. 
+* score : 1.0
+* matched_part :  more than 100
+* matched_seg :  the response time should not be more than 10 seconds .
+-------------------------------------------
+
+* test case : 170
+* requirement description : the time exceed 10 seconds should not be more than 10% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the time exceed 10 seconds should not be more than 10 % of the time .
+-------------------------------------------
+

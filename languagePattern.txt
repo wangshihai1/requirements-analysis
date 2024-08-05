@@ -1,0 +1,30 @@
+for 100 % of $10 02
+100 % of $10 02
+within 100 $02 10
+no later 100 $02 10
+decreased by 100 $02 10
+out of 100 $10 02
+no longer than 100 $02 10
+no more than 100 $02 10
+in under 100 $02 10
+less than 100 $02 10
+a period of 100 $12 $21
+exceed 100 $10 02
+hours of 100 $12 21
+time of 100 $12 21
+maximum of 100 $02 10
+on 100 $12 21
+be avilable 100 $10 02
+support 100 $10 02
+be 100 $12 21
+approximately 100 $12 21
+reamain 100 $12 21
+in 100 $12 21
+to 100 $12 21
+up to 100 $10 02
+every 100 $12 21
+of 100 $12 21
+at least 100 $10 02
+more than 100 $10 02
+minimum of 100 $10 02
+after 100 $10 02

@@ -1,0 +1,100 @@
+The system shall refresh the display every 60 seconds.   @    every 100 @  every 60 seconds
+If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30  @    100% of @  90 % of viewers
+The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.  @    100% of @  99 % of the time
+If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100  @    100% of @  90 % of viewers
+The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.  @    100% of @  90 % of new users
+The product shall produce search results in an acceptable time  @    in an acceptable time @  in an acceptable time
+The search results shall be returned no later 30 seconds  after the user has entered the search criteria  @    no later 100 @  The search results shall be returned no later 30 seconds   after the user has entered the search criteria
+The product shall generate a CMA report in an acceptable time.  @    in an acceptable time @  in an acceptable time
+The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.  @    no later 100 @  The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria .
+The product shall synchronize contacts and appointments in an acceptable time.  @    in an acceptable time @  in an acceptable time
+The product shall synchronize with the office system every hour.   @    every 100 @  every
+100% of saved user preferences shall be restored when system comes back online.  @    100% of @  100 % of saved user preferences
+The product shall be able support 1000 simultaneous users.  @    support 100 @  The product shall be able support 1000 simultaneous users .
+90% of untrained realtors shall be able to install the product on their device without printed instructions  @    100% of @  90 % of untrained realtors
+The number of mistakes noted by the students shall be decreased by 50% in the first year.  @    decreased by 100 @  The number of mistakes noted by the students shall be decreased by 50 % in the first year .
+2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.  @    100% of @  2 out of 3 Program Administrators / Nursing Staff Members
+The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.  @    no longer than 100 @  no longer than 30 seconds
+The system shall achieve 95% up time.  @    100% of @  95
+The system shall cater to 10 simultaneous users from 9am to 5pm.  @    to 100 @  to 10 simultaneous users
+The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.  @    100% of @  100 % of nursing students and their classes
+100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.  @    100% of @  100 % of the cardmember and merchant services representatives
+100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.  @    100% of @  100 % of cardmember services representatives
+100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.  @    100% of @  100 % of merchant services representatives
+The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.  @    no more than 100 @  no more than 5
+The Disputes application shall support 350 concurrent users without any degradation of performance in the application.  @    100% of @  The Disputes application shall support 350 concurrent users without any degradation of performance in the application .
+The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.  @    100% of @  95 % of Adjusters and Collision Estimators
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.  @    100% of @  80 % of the Collision Estimators
+Users shall feel satisfied using the product.  85% of all users will be satisfied with the product.  @    100% of @  85 % of all users
+The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.  @    no longer than 100 @  The search for recycled parts shall take no longer than 15 seconds .  
+The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds  @    no longer than 100 @  no longer than 8 seconds
+The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.  @    within 100 @  within 10 seconds
+The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.  @    within 100 @  within 5 seconds
+The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.  @    more than 100 @  more than 2
+The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.  @    up to 100 @  up to 1500
+The average number of recycled parts records per day shall be 50 000.  @    of 100 @  of recycled parts records
+The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.  @    100% of @  80 % of the users surveyed
+The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.  @    100% of @  90 % of users
+The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions.  @    100% of @  80 % of the users
+An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.  @    less than 100 @  less than 15
+A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes.  @    within 100 @  within 10 minutes
+The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.  @    100% of @  90 % of maintenance software developers
+The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product抯 software code.  @    100% of @  80 % of end users
+70% of registered users shall find a solution to their problem using the support site.  @    100% of @  70 % of registered users
+registered users shall find a solution to their problem within 5 minutes of using the support site.  @    within 100 @  within 5 minutes of using the support site
+For each emerging target market  it shall take no more than 5 days to configure the product for that market language.  @    no more than 100 @  no more than 5
+100% of all logons shall be by either company employees or external users with company-approved user IDs.  @    100% of @  100 % of all logons
+100% of all search queries for reservations by user shall be from logons of only management logons.  @    100% of @  100 % of all search queries for reservations by user
+100% of customers will be able to receive automatic software updates transmitted to the installed product.  @    100% of @  100 % of customers
+90% of survey respondents from each target market country will find that the language of the product is acceptable.  @    100% of @  90 % of survey respondents from each target market country
+90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.  @    100% of @  90 % of survey respondents from each target market country
+System shall let customers register on the website  in under 5 minutes.  @    in under 100 @  in under 5 minutes
+System shall let customers register on the website in under 10 minutes.  @    in under 100 @  in under 10 minutes
+System shall let existing customers log into the website with their email address and password in under 5 seconds.  @    in under 100 @  in under 5 seconds
+System shall let customers cancel their account  process shall take no longer than 2 minutes.  @    no longer than 100 @  System shall let customers cancel their account   process shall take no longer than 2 minutes .
+System shall let administrator de-activate a customer account in under 1 minute.   @    in under 100 @  in under 1 minute
+System shall let administrator add/remove movies on the website in under 5 minutes.  @    in under 100 @  in under 5 minutes
+System shall let the administrator add/remove categories on the website in under 5 minutes.  @    in under 100 @  in under 5 minutes
+System shall let Izogn Manager access sales and usage statistics in under 2 minutes.  @    in under 100 @  in under 2 minutes
+System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.  @    in under 100 @  in under 2 minutes
+An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.  @    100% of @  70 % of customers
+An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.  @    100% of @  95 % of customers
+When streaming a movie  the buffering time should take no longer than 10 seconds. @    no longer than 100 @  no longer than 10 seconds
+The streaming server will support 50 simultaneous streaming connections.  @    support 100 @  The streaming server will support 50 simultaneous streaming connections .
+The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.  @    maximum of 100 @  maximum of 700
+Izogn Administrator must be able to add new products to the website within 2 minutes.  @    within 100 @  within 2 minutes
+Total lead cycle time must be completed in 5 minutes.  @    in 100 @  in 5 minutes
+Total lead cycle time must be completed for 90% of lead volume between the business hours of 8AM CST to 8PM CST.  @    for 100% of @  for 90 % of lead volume between the business hours of 8AM CST
+Total lead cycle time must be completed in 3 minutes.  @    in 100 @  in 3 minutes
+No lead evaluation will complete in a time period longer than 25 seconds.  @    in 100 @  No lead evaluation will complete in a time period longer than 25 seconds .
+No lead evaluation will complete for 97% of all leads processed.  @    for 100% of @  for 97 % of all leads
+The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.  @    in 100 @  in which a lead is assigned within 3 minutes of the total life cycle
+The response time shall be fast enough to maintain the flow of the game.  The response time shall be no more than 2 seconds.  @    no more than 100 @  no more than 2
+The response time shall be fast enough for 95% of responses.  @    for 100% of @  for 95 % of responses
+no more than 4% for the remaining responses.  @    no more than 100 @  no more than 4
+The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes.  @    within 100 @  within 10 minutes
+The system shall be responsive. At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds.   @    no more than 100 @  no more than 2
+The system shall be responsive for 90% of the time.  @    for 100% of @  for 90 % of the time
+the system response time must be no more than 5 seconds.  @    no more than 100 @  no more than 5
+On a 56k connection  the system response time for all operations must be no more than 6 seconds.  @    no more than 100 @  no more than 6
+the system response time for all operations must be for 90% of the time.  @    for 100% of @  for 90 % of the time
+On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds.  @    no more than 100 @  no more than 3
+the system response time for all operations must be for 90% of the time.  @    for 100% of @  for 90 % of the time
+The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing.  @    100% of @  80 % of beta testers
+The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds.  @    within 100 @  within 2 seconds
+The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.  @    minimum of 100 @  minimum of 1 million transactions per year
+The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.  @    be 100 @  be
+The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard.  @    100% of @  100 % of all selection and navigation functionality
+After one use a user should understand and remember 90% of the system usage and navigation.  @    100% of @  90 % of the system usage and navigation
+All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)  @    for 100% of @  for 100 % of CCR users
+The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.  @    to 100 @  to the WCS databases
+The message board shall contain the 5 most recently posted messages on the league page.  @    on 100 @  on the league page
+The messages will contain up to the first 150 characters of the message.  @    to 100 @  to the first 150 characters of the message
+The RFS system shall be available 90% of the time all year  and 98% during the budgeting period.   @    100% of @  90 % of the time
+98% of the user workstations shall meet the minimum hardware requirements prior to implementation.  @    100% of @  98 % of the user workstations
+Minimum Hard Disk Space: 400MB.  @    100% of @  400
+98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1.  @    100% of @  98 % of the user workstations
+data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year.  @    within 100 @  within 3 hours
+95% of the product look & feel will be approved by the Architecture group  prior to implementation.  @    100% of @  95 % of the product
+The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.  @    100% of @  98 % of the users
+The product interface should be fast for 90% of the time.  @    for 100% of @  for 90 % of the time
