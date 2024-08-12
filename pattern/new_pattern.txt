@@ -12,6 +12,7 @@ exceed 100 $10
 hours of 100 $12
 time of 100 $12
 maximum of 100 $02
+of 100 $12
 on 100 $12
 be avilable 100 $10
 support 100 $10
@@ -22,7 +23,6 @@ in 100 $02
 to 100 $12
 up to 100 $10
 every 100 $12
-of 100 $12
 at least 100 $10
 more than 100 $10
 minimum of 100 $10

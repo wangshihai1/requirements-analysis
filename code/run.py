@@ -103,15 +103,7 @@ for sentence in full_sentences:
     real_labels.append(trans_trend(sentence.split('@')[2]))
     
     
-# with open('../new_data.txt','w',encoding='utf-8') as f:
-#     index = 1
-#     for sentence in full_sentences:
-#         s = sentence.split('@')[0]
-#         lb = sentence.split('@')[1]
-#         f.write(str(index) + '@' + s + '@' + lb + '\n')
-#         index += 1
 
-# exit(0)
 i = 0
 cnt = 0
 true_save_path =  f"../预测结果/预测正确/{get_formatted_time()}.txt"

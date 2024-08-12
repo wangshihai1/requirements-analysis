@@ -1,0 +1,180 @@
+* test case : 16
+* requirement description : The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  The product shall be capable of handling the existing 1000 users .
+* predict_trend : 1 1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 22
+* requirement description : system shall be able to handle all of the user requests/usage during business hours. 
+* score : 0.8
+* matched_part :  be able to handle 100
+* matched_seg :  system shall be able to handle all of the user requests / usage during business hours .
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 31
+* requirement description : The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ?Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST 
+* score : 1.0
+* matched_part :  to 100
+* matched_seg :  Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST
+* predict_trend : 1 -1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 49
+* requirement description : The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  The product shall be able to handle up to 1500 simultaneous users .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 56
+* requirement description : The response shall be fast enough to avoid interrupting the user抯 flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of tasks
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 58
+* requirement description : The product shall be capable of handling up to 1000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  The product shall be capable of handling up to 1000 concurrent requests .  
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 94
+* requirement description : Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  Any interface between a user and the automated system shall have a maximum response time of 5 seconds   unless noted by an exception below .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 95
+* requirement description : When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  When purchasing a streaming movie or pre - paid card via credit card   the processing time should have a maximum response time of 15 seconds .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 105
+* requirement description : Promotional updates to the website should take a day to update. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  Promotional updates to the website
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 112
+* requirement description : Total lead cycle time must be completed for 99% of lead volume during off business hours. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  Total lead cycle time must be completed for 99 % of lead volume during off business hours .
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 118
+* requirement description : The product shall able to handle a large number of games simultaneously. 
+* score : 0.6
+* matched_part :  be able to handle 100
+* matched_seg :  The product shall able to handle a large number of games simultaneously .
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 134
+* requirement description : The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The product shall help the System Administrators and DBAs to resolve transaction errors 99 % of the time .
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 136
+* requirement description : The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second. 
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  The product shall poll the system for new messages at a maximum of every 1 second .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 146
+* requirement description : The WCS system shall be available at all times as long as IBM抯 internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM抯 internal intranet W3 is available. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The WCS system will be available 95 % of the time IBM抯 internal intranet W3 is available .
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 147
+* requirement description : The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  Queries must be made to external databases for data refresh once a week .
+* predict_trend : 1 1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 161
+* requirement description : New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  100 % of the entities ( mentioned above )
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 165
+* requirement description : The remaining 5% will be corrected within a week of notification of the incorrect display. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The remaining 5 % will be corrected within a week of notification of the incorrect display .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 167
+* requirement description : The product interface should be fast. The response time of the product interface should not exceed 2 seconds. 
+* score : 1.0
+* matched_part :  exceed 100
+* matched_seg :  The response time of the product interface should not exceed 2 seconds .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 169
+* requirement description : the response time should not be more than 10 seconds. 
+* score : 1.0
+* matched_part :  more than 100
+* matched_seg :  the response time should not be more than 10 seconds .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 170
+* requirement description : the time exceed 10 seconds should not be more than 10% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the time exceed 10 seconds should not be more than 10 % of the time .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+

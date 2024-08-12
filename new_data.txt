@@ -53,7 +53,7 @@
 53@The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use. @10
 54@The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions. @10
 55@An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms. @02
-56@The response shall be fast enough to avoid interrupting the user抯 flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds. @02
+56@The response shall be fast enough to avoid interrupting the user flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds. @10
 57@Aside from server failure  the software product shall achieve 99.99% up time. @10
 58@The product shall be capable of handling up to 1000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours. @10
 59@The product shall be expected to operate for at least 5 years for each customer installation. @10
@@ -109,7 +109,7 @@
 109@Total lead cycle time must be completed in 5 minutes. @02
 110@Total lead cycle time must be completed for 90% of lead volume between the business hours of 8AM CST to 8PM CST. @10
 111@Total lead cycle time must be completed in 3 minutes. @02
-112@Total lead cycle time must be completed for 99% of lead volume during off business hours. @11
+112@Total lead cycle time must be completed for 99% of lead volume during off business hours. @10
 113@No lead evaluation will complete in a time period longer than 25 seconds. @02
 114@No lead evaluation will complete for 97% of all leads processed. @10
 115@For leads that process longer than 25 seconds the system will record the event and duration. @02
@@ -131,34 +131,34 @@
 131@The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year. @11
 132@The system must be available for use between 7:00AM and 11:59PM all days of the year. @11
 133@The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing. @10
-134@The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time. @11
+134@The product shall provide Error Tracking Services.The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time. @10
 135@The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds. @02
 136@The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second. @02
-137@The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days. @11
+137@The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days. @10
 138@The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year. @10
 139@The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months. @12
-140@The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes. @02
+140@The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes. @10
 141@The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard. @10
 142@Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). @02
 143@After one use a user should understand and remember 90% of the system usage and navigation. @10
 144@All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available) @10
 145@The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users. @11
-146@The WCS system shall be available at all times as long as IBM抯 internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM抯 internal intranet W3 is available. @11
+146@The WCS system shall be available at all times as long as IBM internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM抯 internal intranet W3 is available. @10
 147@The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. @12
 148@The message board shall contain the 5 most recently posted messages on the league page. @12
-149@The messages will contain up to the first 150 characters of the message. @12
+149@The messages will contain up to the first 150 characters of the message. @02
 150@A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page. @02
 151@Users shall be able to view at least 25 NFL player statistics and points on each page. @10
 152@The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network. @02
 153@The application shall have a downtime of at most 10 minutes per year. @02
-154@The RFS system should be available 24/7  especially during the budgeting period.  @11
+154@The RFS system should be available 24/7  especially during the budgeting period.  @10
 155@The RFS system shall be available 90% of the time all year  and 98% during the budgeting period.  @10
 156@98% of the user workstations shall meet the minimum hardware requirements prior to implementation. @10
 157@Minimum Hard Disk Space: 400MB. @10
 158@98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. @10
 159@data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. @02
-160@Test files shall be loaded up to 5 times throughout the year from the BDW. @12
-161@New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process. @11
+160@Test files shall be loaded up to 5 times throughout the year from the BDW. @02
+161@New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process. @10
 162@95% of the product look & feel will be approved by the Architecture group  prior to implementation. @10
 163@The remaining 5% will be corrected and approved within one month of product release. @02
 164@The display of all the pages will be correct in 95% of the resolutions  prior to implementation.  @10

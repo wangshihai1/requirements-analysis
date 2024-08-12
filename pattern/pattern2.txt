@@ -30,3 +30,7 @@ support a maximum of 100 $10
 respond fast to $22
 be able to handle 100 $10
 all must be $11
+contain the 100 $12
+at most 10 $02
+all of the $11
+be capable of handling 100 $10

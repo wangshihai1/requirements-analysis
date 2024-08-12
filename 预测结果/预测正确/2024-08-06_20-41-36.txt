@@ -1,0 +1,1305 @@
+* test case : 1
+* requirement description : The system shall refresh the display every 60 seconds.  
+* score : 1.0
+* matched_part :  every 100
+* matched_seg : The system shall refresh the display every 60 seconds.  
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 2
+* requirement description : If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 3
+* requirement description : The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 4
+* requirement description : If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 5
+* requirement description : The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 6
+* requirement description : The product shall respond fast to keep up-to-date data in the display. 
+* score : 1.0
+* matched_part :  respond fast to
+* matched_seg : The product shall respond fast to keep up-to-date data in the display.
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 7
+* requirement description : The product shall produce search results in an acceptable time 
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg : The product shall produce search results in an acceptable time
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 8
+* requirement description : The search results shall be returned no later 30 seconds  after the user has entered the search criteria 
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg : The search results shall be returned no later 30 seconds  after the user has entered the search criteria
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 9
+* requirement description : The product shall generate a CMA report in an acceptable time. 
+* score : 0.75
+* matched_part :  in an acceptable time
+* matched_seg : The product shall generate a CMA report in an acceptable time.
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 10
+* requirement description : The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria. 
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg : The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 11
+* requirement description : The product shall synchronize contacts and appointments in an acceptable time. 
+* score : 0.75
+* matched_part :  in an acceptable time
+* matched_seg : The product shall synchronize contacts and appointments in an acceptable time.
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 12
+* requirement description : The product shall synchronize with the office system every hour.  
+* score : 0.5
+* matched_part :  every 100
+* matched_seg : The product shall synchronize with the office system every hour.  
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 13
+* requirement description : Out of 1000 accesses to the system  the system is available 999 times. 
+* score : 1.0
+* matched_part :  out of 100
+* matched_seg : Out of 1000 accesses to the system  the system is available 999 times.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 14
+* requirement description : 100% of saved user preferences shall be restored when system comes back online. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of saved user preferences shall be restored when system comes back online.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 15
+* requirement description : The product shall be able support 1000 simultaneous users. 
+* score : 1.0
+* matched_part :  support 100
+* matched_seg : The product shall be able support 1000 simultaneous users.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 17
+* requirement description : 90% of untrained realtors shall be able to install the product on their device without printed instructions 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 90% of untrained realtors shall be able to install the product on their device without printed instructions
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 18
+* requirement description : The number of mistakes noted by the students shall be decreased by 50% in the first year. 
+* score : 1.0
+* matched_part :  decreased by 100
+* matched_seg : The number of mistakes noted by the students shall be decreased by 50% in the first year.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 19
+* requirement description : 2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals. 
+* score : 1.0
+* matched_part :  out of 100
+* matched_seg : 2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 20
+* requirement description : The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds. 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 21
+* requirement description : The system shall achieve 95% up time. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg : The system shall achieve 95% up time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 23
+* requirement description : The system shall cater to 10 simultaneous users from 9am to 5pm. 
+* score : 1.0
+* matched_part :  to 100
+* matched_seg : The system shall cater to 10 simultaneous users from 9am to 5pm.
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 24
+* requirement description : The system shall be capable of processing 100% of nursing students and their classes for the next 10 years. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The system shall be capable of processing 100% of nursing students and their classes for the next 10 years.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 25
+* requirement description : The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years. 
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg : The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 26
+* requirement description : 100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 27
+* requirement description : 100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 28
+* requirement description : 100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 29
+* requirement description : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 30
+* requirement description : The Disputes application shall support 350 concurrent users without any degradation of performance in the application. 
+* score : 1.0
+* matched_part :  support 100
+* matched_seg : The Disputes application shall support 350 concurrent users without any degradation of performance in the application.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 32
+* requirement description : The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All cardmember detail information must be obtained from the Cardmember Information Database.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 33
+* requirement description : The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All merchant detail information shall be obtained from the Merchant Information Database.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 34
+* requirement description : The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All letter requests must be sent to the Print Letter Utility application.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 35
+* requirement description : The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All adjustment requests must be sent to the Cardmember Posting and Billing System.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 36
+* requirement description : All additions of new users and modifications to user access shall be recorded on the User Report. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All additions of new users and modifications to user access shall be recorded on the User Report.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 37
+* requirement description : All updates to data files or database must be initiated from the Disputes System. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All updates to data files or database must be initiated from the Disputes System.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 38
+* requirement description : All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 39
+* requirement description : All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 40
+* requirement description : All actions that modify an existing dispute case must be recorded in the case history. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All actions that modify an existing dispute case must be recorded in the case history.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 41
+* requirement description : The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 95% of Adjusters and Collision Estimators shall find the product easy to use.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 42
+* requirement description : The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 43
+* requirement description : Users shall feel satisfied using the product.  85% of all users will be satisfied with the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 85% of all users will be satisfied with the product.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 44
+* requirement description : The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds. 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : The search for recycled parts shall take no longer than 15 seconds.  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 45
+* requirement description : The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : The search for the preferred repair facility shall take no longer than 8 seconds.  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 46
+* requirement description : The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The recycled parts audit report shall be returned to the user within 10 seconds.  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 47
+* requirement description : The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The preferred repair facility ratings shall be saved within 5 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 48
+* requirement description : The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The product shall not fail more than 2% of the available online time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 49
+* requirement description : The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg : The product shall be able to handle up to 1500 simultaneous users.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 50
+* requirement description : The average number of recycled parts records per day shall be 50 000. 
+* score : 1.0
+* matched_part :  be 100
+* matched_seg : The average number of recycled parts records per day shall be 50 000.
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 51
+* requirement description : The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch. 
+* score : 1.0
+* matched_part :  be able to handle 100
+* matched_seg : The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 52
+* requirement description : The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 53
+* requirement description : The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 54
+* requirement description : The product shall give users feedback when necessary. 80% of the users surveyed report that the product accurately confirms their actions. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 80% of the users surveyed report that the product accurately confirms their actions.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 55
+* requirement description : An employee will be able to successfully use the product within a few minutes.  After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms. 
+* score : 1.0
+* matched_part :  less than 100
+* matched_seg : After informally navigating the product for less than 15 minutes  users shall be able to successfully setup meetings and reserve conference rooms.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 57
+* requirement description : Aside from server failure  the software product shall achieve 99.99% up time. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg : Aside from server failure  the software product shall achieve 99.99% up time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 58
+* requirement description : The product shall be capable of handling up to 1000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg : The product shall be capable of handling up to 1000 concurrent requests.  
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 59
+* requirement description : The product shall be expected to operate for at least 5 years for each customer installation. 
+* score : 1.0
+* matched_part :  at least 100
+* matched_seg : The product shall be expected to operate for at least 5 years for each customer installation.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 60
+* requirement description : A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : A new user must be able to be added to the system within 10 minutes.  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 61
+* requirement description : The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 62
+* requirement description : The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product抯 software code. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 80% of end users are able to integrate new database management systems with the product without changing the product抯 software code.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 63
+* requirement description : Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install. 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : The releases shall take no longer than 5 minutes for 80% of the customer base to install.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 64
+* requirement description : 70% of registered users shall find a solution to their problem using the support site. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 70% of registered users shall find a solution to their problem using the support site.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 65
+* requirement description : registered users shall find a solution to their problem within 5 minutes of using the support site. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : registered users shall find a solution to their problem within 5 minutes of using the support site.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 66
+* requirement description : For each emerging target market  it shall take no more than 5 days to configure the product for that market language. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : For each emerging target market  it shall take no more than 5 days to configure the product for that market language.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 67
+* requirement description : The product shall be able to be installed in any operating environment within 2 days. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The product shall be able to be installed in any operating environment within 2 days.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 68
+* requirement description : 100% of all logons shall be by either company employees or external users with company-approved user IDs. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of all logons shall be by either company employees or external users with company-approved user IDs.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 69
+* requirement description : 100% of all search queries for reservations by user shall be from logons of only management logons. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of all search queries for reservations by user shall be from logons of only management logons.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 70
+* requirement description : The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg : The product and/or adjacent hardware/software systems data shall remain 100% uncorrupted each time malicious data is input into the product.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 71
+* requirement description : The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 72
+* requirement description : 100% of customers will be able to receive automatic software updates transmitted to the installed product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of customers will be able to receive automatic software updates transmitted to the installed product.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 73
+* requirement description : 90% of survey respondents from each target market country will find that the language of the product is acceptable. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 90% of survey respondents from each target market country will find that the language of the product is acceptable.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 74
+* requirement description : 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 75
+* requirement description : Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 76
+* requirement description : The System shall allow for a minimum of  6 users to work at the same time. 
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg : The System shall allow for a minimum of  6 users to work at the same time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 77
+* requirement description : Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 78
+* requirement description : Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 79
+* requirement description : System shall let customers register on the website  in under 5 minutes. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let customers register on the website  in under 5 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 80
+* requirement description : System shall let customers register on the website in under 10 minutes. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let customers register on the website in under 10 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 81
+* requirement description : System shall let existing customers log into the website with their email address and password in under 5 seconds. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let existing customers log into the website with their email address and password in under 5 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 82
+* requirement description : System shall let customers cancel their account  process shall take no longer than 2 minutes. 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : System shall let customers cancel their account  process shall take no longer than 2 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 83
+* requirement description : System shall let administrator de-activate a customer account in under 1 minute.  
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let administrator de-activate a customer account in under 1 minute.  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 84
+* requirement description : System shall let administrator add/remove movies on the website in under 5 minutes. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let administrator add/remove movies on the website in under 5 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 85
+* requirement description : System shall let the administrator add/remove categories on the website in under 5 minutes. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let the administrator add/remove categories on the website in under 5 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 86
+* requirement description : System shall let Izogn Manager access sales and usage statistics in under 2 minutes. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let Izogn Manager access sales and usage statistics in under 2 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 87
+* requirement description : System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 88
+* requirement description : The product should be able to be used by 90% of novice users on the Internet. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The product should be able to be used by 90% of novice users on the Internet.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 89
+* requirement description : Users should only have to navigate through a maximum of 4 pages  to create an account with the website. 
+* score : 1.0
+* matched_part :  maximum of 100
+* matched_seg : Users should only have to navigate through a maximum of 4 pages  to create an account with the website.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 90
+* requirement description : Users should be able to access their streaming movies in under 2 clicks after logging into the website. 
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : Users should be able to access their streaming movies in under 2 clicks after logging into the website.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 91
+* requirement description : An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 92
+* requirement description : An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 93
+* requirement description : Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg : Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 96
+* requirement description : When streaming a movie  the buffering time should take no longer than 10 seconds.
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : When streaming a movie  the buffering time should take no longer than 10 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 97
+* requirement description : The website shall be available for use 24 hours per day  365 days per year. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg : The website shall be available for use 24 hours per day  365 days per year.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 98
+* requirement description : The website shall achieve 99.5% up time. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg : The website shall achieve 99.5% up time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 99
+* requirement description : All movies shall be streamed on demand  at any time of the day. 
+* score : 1.0
+* matched_part :  all must be
+* matched_seg : All movies shall be streamed on demand  at any time of the day.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 100
+* requirement description : The streaming server will support 50 simultaneous streaming connections. 
+* score : 1.0
+* matched_part :  support 100
+* matched_seg : The streaming server will support 50 simultaneous streaming connections.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 101
+* requirement description : The streaming server will support a maximum of 700 movies; new servers can be added to support more movies. 
+* score : 1.0
+* matched_part :  support a maximum of 100
+* matched_seg : The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 102
+* requirement description : The server will support a maximum of 1000 simultaneous users. 
+* score : 1.0
+* matched_part :  support a maximum of 100
+* matched_seg : The server will support a maximum of 1000 simultaneous users.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 103
+* requirement description : The website shall be capable of supporting 100 000 customers. 
+* score : 0.6666666666666666
+* matched_part :  out of 100
+* matched_seg : The website shall be capable of supporting 100 000 customers.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 104
+* requirement description : The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years. 
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg : The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 106
+* requirement description : Izogn Administrator must be able to update the category listings on the website within 2 minutes. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : Izogn Administrator must be able to update the category listings on the website within 2 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 107
+* requirement description : Izogn Administrator must be able to add new products to the website within 2 minutes. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : Izogn Administrator must be able to add new products to the website within 2 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 108
+* requirement description : The product shall be able to be installed in the specified environment within 1 working day. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The product shall be able to be installed in the specified environment within 1 working day.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 109
+* requirement description : Total lead cycle time must be completed in 5 minutes. 
+* score : 1.0
+* matched_part :  in 100
+* matched_seg : Total lead cycle time must be completed in 5 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 110
+* requirement description : Total lead cycle time must be completed for 90% of lead volume between the business hours of 8AM CST to 8PM CST. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : Total lead cycle time must be completed for 90% of lead volume between the business hours of 8AM CST to 8PM CST.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 111
+* requirement description : Total lead cycle time must be completed in 3 minutes. 
+* score : 1.0
+* matched_part :  in 100
+* matched_seg : Total lead cycle time must be completed in 3 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 113
+* requirement description : No lead evaluation will complete in a time period longer than 25 seconds. 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg : No lead evaluation will complete in a time period longer than 25 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 114
+* requirement description : No lead evaluation will complete for 97% of all leads processed. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : No lead evaluation will complete for 97% of all leads processed.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 115
+* requirement description : For leads that process longer than 25 seconds the system will record the event and duration. 
+* score : 0.75
+* matched_part :  no longer than 100
+* matched_seg : For leads that process longer than 25 seconds the system will record the event and duration.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 116
+* requirement description : The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 117
+* requirement description : The product shall be available 24 hours per day  seven days per week. 
+* score : 0.6666666666666666
+* matched_part :  be avilable 100
+* matched_seg : The product shall be available 24 hours per day  seven days per week.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 119
+* requirement description : The response time shall be fast enough to maintain the flow of the game.  The response time shall be no more than 2 seconds. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : The response time shall be no more than 2 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 120
+* requirement description : The response time shall be fast enough for 95% of responses. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The response time shall be fast enough for 95% of responses.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 121
+* requirement description : no more than 4% for the remaining responses. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : no more than 4% for the remaining responses.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 122
+* requirement description : The system shall be easy to use by callers and supervisors. Callers and supervisors must be able to accomplish any system task within 2 minutes. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : Callers and supervisors must be able to accomplish any system task within 2 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 123
+* requirement description : The system shall be easy to learn by callers and supervisors. Callers and supervisors shall learn how to use the system within 10 minutes. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : Callers and supervisors shall learn how to use the system within 10 minutes.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 124
+* requirement description : The system shall be responsive. At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds.  
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds.  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 125
+* requirement description : The system shall be responsive for 90% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The system shall be responsive for 90% of the time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 126
+* requirement description : the system response time must be no more than 5 seconds. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : the system response time must be no more than 5 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 127
+* requirement description : On a 56k connection  the system response time for all operations must be no more than 6 seconds. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : On a 56k connection  the system response time for all operations must be no more than 6 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 128
+* requirement description : the system response time for all operations must be for 90% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : the system response time for all operations must be for 90% of the time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 129
+* requirement description : On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg : On a 112k connection or faster  the system response time for all operations must be no more than 3 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 130
+* requirement description : the system response time for all operations must be for 90% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : the system response time for all operations must be for 90% of the time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 131
+* requirement description : The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg : The system must be available for use between 12:00AM and 6:00PM all days of the year.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 132
+* requirement description : The system must be available for use between 7:00AM and 11:59PM all days of the year. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg : The system must be available for use between 7:00AM and 11:59PM all days of the year.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 133
+* requirement description : The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : In the interface and usability survey  80% of beta testers must report that the interface is appealing.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 135
+* requirement description : The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The product shall process messages within 2 seconds.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 138
+* requirement description : The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year. 
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg : The product shall process minimum of 1 million transactions per year.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 139
+* requirement description : The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months. 
+* score : 1.0
+* matched_part :  every 100
+* matched_seg : The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 141
+* requirement description : The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 142
+* requirement description : Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report). 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : eports must be generated within one button click and exported within one button click (after selecting the report).
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 143
+* requirement description : After one use a user should understand and remember 90% of the system usage and navigation. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : After one use a user should understand and remember 90% of the system usage and navigation.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 144
+* requirement description : All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available) 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 145
+* requirement description : The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg : All interfaces and reports will undergo usability tests by CCR users.
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 150
+* requirement description : A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 151
+* requirement description : Users shall be able to view at least 25 NFL player statistics and points on each page. 
+* score : 1.0
+* matched_part :  at least 100
+* matched_seg : Users shall be able to view at least 25 NFL player statistics and points on each page.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 152
+* requirement description : The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 155
+* requirement description : The RFS system shall be available 90% of the time all year  and 98% during the budgeting period.  
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The RFS system shall be available 90% of the time all year  and 98% during the budgeting period.  
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 156
+* requirement description : 98% of the user workstations shall meet the minimum hardware requirements prior to implementation. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 98% of the user workstations shall meet the minimum hardware requirements prior to implementation.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 157
+* requirement description : Minimum Hard Disk Space: 400MB. 
+* score : 0.6666666666666666
+* matched_part :  minimum of 100
+* matched_seg : Minimum Hard Disk Space: 400MB.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 158
+* requirement description : 98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 159
+* requirement description : data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 162
+* requirement description : 95% of the product look & feel will be approved by the Architecture group  prior to implementation. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 95% of the product look & feel will be approved by the Architecture group  prior to implementation.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 163
+* requirement description : The remaining 5% will be corrected and approved within one month of product release. 
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : The remaining 5% will be corrected and approved within one month of product release.
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 164
+* requirement description : The display of all the pages will be correct in 95% of the resolutions  prior to implementation.  
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The display of all the pages will be correct in 95% of the resolutions  prior to implementation.  
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 166
+* requirement description : The users should be able to easily use the system to successfully complete their budgets  within the stipulated time for completion. With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : With a week of training prior to product implementation  98% of the users shall complete their budgets within the stipulated time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 168
+* requirement description : The product interface should be fast for 90% of the time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : The product interface should be fast for 90% of the time.
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
