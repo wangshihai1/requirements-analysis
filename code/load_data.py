@@ -16,6 +16,7 @@ word_num = {
     'ten':'10'
 }
 
+
 #读取数据集及其标签
 def get_data2(path): 
     sentences=[]
@@ -164,7 +165,8 @@ def get_data5(path):
     
     return input,output
 
-def equal(a,b): #判断两个字符串是否相等
+#判断两个字符串是否相等
+def equal(a,b): 
     
     # 大写变小写
     a = a.lower()
@@ -186,7 +188,7 @@ def equal(a,b): #判断两个字符串是否相等
         return True
     return False
 
-
+#求最长公共子序列的具体内容
 def get_lcs_content(sequence,l,r,trans,LCS):
     if(l==0 or r==0):return
     if(trans[l][r]==1):
@@ -196,6 +198,7 @@ def get_lcs_content(sequence,l,r,trans,LCS):
         get_lcs_content(sequence,l-1,r,trans,LCS)
     else: get_lcs_content(sequence,l,r-1,trans,LCS)
 
+#求最长公共子序列中每个单词的位置索引
 def get_lcs_location(sequence,l,r,trans,LCS):
     if(l==0 or r==0):return
     if(trans[l][r]==1):
@@ -204,8 +207,9 @@ def get_lcs_location(sequence,l,r,trans,LCS):
     elif(trans[l][r]==2):
         get_lcs_location(sequence,l-1,r,trans,LCS)
     else: get_lcs_location(sequence,l,r-1,trans,LCS)
-    
-def lcs(list1,list2): #求两个句子的最长公共子序列
+
+#求两个句子的最长公共子序列    
+def lcs(list1,list2): 
     n=len(list1)
     m=len(list2)
     dp=[[0 for _ in range(m+1)] for _ in range(n+1)]
@@ -250,6 +254,7 @@ def get_word(s):
         res.append(word)
     return res
 
+#排序函数
 def key_function(result):
     LCS = result[0]
     pattern = result[1]
@@ -258,7 +263,8 @@ def key_function(result):
     else : loc_delta = 0
     return (result[3],get_punishment_score(loc_delta, len(pattern) - 1, result[3]),len(pattern))    
 
-def get_punishment_score(loc_delta,len_pattren,score): # 如果远距离间隔匹配会被罚得分
+#如果远距离间隔匹配会被罚得分
+def get_punishment_score(loc_delta,len_pattren,score): 
     if loc_delta <= len_pattren: k = 1
     else : k = len_pattren/loc_delta
     return k * score

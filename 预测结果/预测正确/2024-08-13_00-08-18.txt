@@ -1,0 +1,9 @@
+* test case : 1
+* requirement description : The system shall refresh the display every 60 seconds.  
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  The system shall refresh the display every 60 seconds .  
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+

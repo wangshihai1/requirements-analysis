@@ -7,6 +7,11 @@ from datetime import datetime
 
 nlp = spacy.load("en_core_web_sm")
 
+TP = [0 for i in range(9)] # 真正例数：实际类别为 i 的样本被正确预测为 i 的数量。
+FN = [0 for i in range(9)] # 假负例数：实际类别为 i 的样本被错误预测为其他类别的数量。
+num = [0 for i in range(9)]
+
+#检测语义反转
 def is_passive(text):
     negative_keywords = ['no', 'not', 'never', 'nothing', 'none']
 
@@ -15,8 +20,8 @@ def is_passive(text):
         return True
     return False
 
+#获取当前时间
 def get_formatted_time():
-    # 获取当前时间
     now = datetime.now()
 
     # 格式化当前时间为字符串
@@ -24,12 +29,14 @@ def get_formatted_time():
     
     return formatted_time
 
+#将一列表中的词汇拼接成字符串
 def list2str(ls):
     res = ''
     for word in ls:
         res = res + ' ' + word
     return res
 
+#将一个句子划分为多个子句，每个子句内部的词汇相关性较高
 def sentence_split(sentence):
     global doc
     sub_sentences = []
@@ -73,10 +80,12 @@ def func2(big_sentence):
                 matched_part = sentence    
                 
         return (Changing_trend,list2str(matched_pattern[1:]),score,matched_part)
-    
+
+#将编码转化为字符串
 def trend_to_str(trend):
     return str(trend[0]) + ' ' + str(trend[1])
     
+#写日志
 def wirte_to_txt(path,test_case,sentence,score,matched_pattern,matched_seg,predict_trend,really_trend):
     with open(path,'a',encoding='utf-8') as f :
         f.write("* " + test_case + '\n')
@@ -100,8 +109,10 @@ full_sentences = open("../new_data.txt",'r',encoding='utf-8').read().split('\n')
 
 for sentence in full_sentences:
     sentences.append(sentence.split('@')[1])
-    real_labels.append(trans_trend(sentence.split('@')[2]))
-    
+    label = trans_trend(sentence.split('@')[2])
+    real_labels.append(label)
+    id = label_encode[label]
+    num[id] += 1
     
 
 i = 0
@@ -119,14 +130,18 @@ for big_sentence in sentences:
         cnt += 1
         scores.append(score)
         wirte_to_txt(true_save_path,test_case,big_sentence,score,matched_pattern,matched_seg,Changing_trend,real_labels[i])
+        id = label_encode[Changing_trend]
+        TP[id] += 1
     else: 
         fail_scores.append(score)
         wirte_to_txt(false_save_path,test_case,big_sentence,score,matched_pattern,matched_seg,Changing_trend,real_labels[i])
-    
+        id = label_encode[real_labels[i]] #实际类别为 i的样本被错误预测为其他类别
+        FN[id] += 1
+        
     i += 1   
  
     
-print(cnt / i)
+print("accuracy : ",cnt / i)
     
 n = len(scores)
 
@@ -135,6 +150,14 @@ x = [i for i in range(n)]
 m = len(fail_scores)
 
 fail_x = [i for i in range(m)]
+
+for i in range(9):
+    if TP[i] + FN[i] == 0: recall = 0
+    else : recall = TP[i] / (TP[i] + FN[i])
+    print(f"* recall of label {label_decode[i]} : {recall} ")
+    print(f"* number of label {label_decode[i]} : {num[i]}")
+    print("-----------------------------------")
+    print("")
 
 
 # 绘制并保存第一张图

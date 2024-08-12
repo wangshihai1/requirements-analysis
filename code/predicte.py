@@ -2,7 +2,31 @@ from load_data import lcs , is_num
 import numpy as np
 languagePatterns=[]
 labels=[]
+label_encode = { #每个标签对应一个编号
+    "1 1" : 0,
+    "1 0" : 1,
+    "1 -1" : 2,
+    "0 1" : 3,
+    "0 0" : 4,
+    "0 -1" : 5,
+    "-1 1" : 6,
+    "-1 0" : 7,
+    "-1 -1" : 8
+}
 
+label_decode = { #每个编号对应一个标签
+    0 : "1 1",
+    1 : "1 0",
+    2 : "1 -1",
+    3 : "0 1",
+    4 : "0 0",
+    5 : "0 -1",
+    6 : "-1 1",
+    7 : "-1 0",
+    8 : "-1 -1"
+}
+
+#将句子分割为单词列表
 def get_word(s):
     res=[' ']
     for word in s.split(' '):
@@ -25,7 +49,8 @@ def get_score_threshold(sentence):
     scores=np.array(scores)
     q3 = np.percentile(scores, 99)  #求99%分位数
     return q3
-    
+ 
+#根据最长公共子序列的紧凑程度进行罚分   
 def get_punishment_score(loc_delta,len_pattren,score): # 如果远距离间隔匹配会被罚得分
     if loc_delta <= len_pattren: k = 1
     else : k = len_pattren/loc_delta
@@ -62,14 +87,16 @@ def get_number(sequence):
         if word[0].isdigit():
             return word
     return "none"
-            
-def trans_trend(str):
-    if str[0]=='2':a=-1
-    else: a=int(str[0])
-    if str[1]=='2':b=-1
-    else: b=int(str[1])
-    return (a,b)
 
+#数字编码转字符串编码           
+def trans_trend(s):
+    if s[0]=='2':a=-1
+    else: a=int(s[0])
+    if s[1]=='2':b=-1
+    else: b=int(s[1])
+    return str(a) + ' ' + str(b)
+
+#求语义反转后的变化趋势
 def inv_trend(trend):
     return (trend[0] * -1, trend[1] * -1)
 
