@@ -1,0 +1,9 @@
+* test case : 31
+* requirement description : The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ?Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST 
+* score : 1.0
+* matched_part :  to 100
+* matched_seg :  Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+

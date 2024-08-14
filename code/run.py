@@ -9,6 +9,7 @@ nlp = spacy.load("en_core_web_sm")
 
 TP = [0 for i in range(9)] # 真正例数：实际类别为 i 的样本被正确预测为 i 的数量。
 FN = [0 for i in range(9)] # 假负例数：实际类别为 i 的样本被错误预测为其他类别的数量。
+FP = [0 for i in range(9)] # 假正例数：实际类别不为 i 但被预测成 i 的样本数量
 num = [0 for i in range(9)]
 
 #检测语义反转
@@ -137,6 +138,8 @@ for big_sentence in sentences:
         wirte_to_txt(false_save_path,test_case,big_sentence,score,matched_pattern,matched_seg,Changing_trend,real_labels[i])
         id = label_encode[real_labels[i]] #实际类别为 i的样本被错误预测为其他类别
         FN[id] += 1
+        id = label_encode[Changing_trend]
+        FP[id] += 1
         
     i += 1   
  
@@ -151,9 +154,28 @@ m = len(fail_scores)
 
 fail_x = [i for i in range(m)]
 
+recalls = []
+precisions = []
+F1_scores = []
+
 for i in range(9):
-    if TP[i] + FN[i] == 0: recall = 0
-    else : recall = TP[i] / (TP[i] + FN[i])
+    if TP[i] + FN[i] == 0: 
+        recall = 0
+    else : 
+        recall = TP[i] / (TP[i] + FN[i])
+    if TP[i] + FP[i] == 0:
+        precision = 0
+    else :
+        precision = TP[i] / (TP[i] + FP[i])
+     
+    if recall + precision == 0:
+        F1_score = 0
+    else :
+        F1_score = 2 * (precision * recall) / (precision + recall)       
+        
+    precisions.append(precision)
+    recalls.append(recall)
+    F1_scores.append(F1_score)
     print(f"* recall of label {label_decode[i]} : {recall} ")
     print(f"* number of label {label_decode[i]} : {num[i]}")
     print("-----------------------------------")
@@ -166,7 +188,7 @@ plt.scatter(x, scores,c = 'green')
 plt.title('Scatter Plot 1')
 plt.xlabel('id')
 plt.ylabel('score')
-plt.savefig(f'../可视化/score_{get_formatted_time()}.png')
+plt.savefig(f'../可视化/score-distribution/score_{get_formatted_time()}.png')
 plt.close()  # 关闭当前图
 
 # 绘制并保存第二张图
@@ -175,5 +197,38 @@ plt.scatter(fail_x, fail_scores,c = 'red')
 plt.title('Scatter Plot 2')
 plt.xlabel('id')
 plt.ylabel('score')
-plt.savefig(f'../可视化/fail_score_{get_formatted_time()}.png')
+plt.savefig(f'../可视化/score-distribution/fail_score_{get_formatted_time()}.png')
 plt.close()  # 关闭当前图
+
+x = [label_decode[i] for i in range(9)]
+plt.figure()
+plt.bar(x, num, color = 'blue') #绘制每一类别数量的柱状图
+plt.title('label distribution')
+plt.xlabel('label')
+plt.ylabel('num')
+plt.savefig(f'../可视化/label-distribution.png')
+plt.close()  # 关闭当前图
+
+plt.figure()
+plt.bar(x, recalls, color = 'green') #绘制每一类别数量的柱状图
+plt.title('label recalls')
+plt.xlabel('label')
+plt.ylabel('recall')
+plt.savefig(f'../可视化/label-recalls.png')
+plt.close()  
+
+plt.figure()
+plt.bar(x, precisions, color = 'red') #绘制每一类别数量的柱状图
+plt.title('label precisions')
+plt.xlabel('label')
+plt.ylabel('precision')
+plt.savefig(f'../可视化/label-precisions.png')
+plt.close()  
+
+plt.figure()
+plt.bar(x, F1_scores, color = 'yellow') #绘制每一类别数量的柱状图
+plt.title('label F1_scores')
+plt.xlabel('label')
+plt.ylabel('F1_score')
+plt.savefig(f'../可视化/label-F1_scores.png')
+plt.close()  

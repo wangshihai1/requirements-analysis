@@ -1,0 +1,270 @@
+* test case : 1
+* requirement description : The system shall refresh the display every 60 seconds.  
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  The system shall refresh the display every 60 seconds .  
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 2
+* requirement description : If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of viewers
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 3
+* requirement description : The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  As long as the user has access to the client PC   the system will be available 99 % of the time during the first six months of operation .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 4
+* requirement description : If projected  the data must be understandable. On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of viewers
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 5
+* requirement description : The product shall be intuitive and self-explanatory.  :  90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of new users
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 6
+* requirement description : The product shall respond fast to keep up-to-date data in the display. 
+* score : 1.0
+* matched_part :  respond fast to
+* matched_seg :  The product shall respond fast to keep up - to - date data in the display .
+* predict_trend : - 1
+* really_trend : - 1
+-------------------------------------------
+
+* test case : 7
+* requirement description : The product shall produce search results in an acceptable time 
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg :  The product shall produce search results in an acceptable time
+* predict_trend : - 1
+* really_trend : - 1
+-------------------------------------------
+
+* test case : 8
+* requirement description : The search results shall be returned no later 30 seconds  after the user has entered the search criteria 
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg :  The search results shall be returned no later 30 seconds   after the user has entered the search criteria
+* predict_trend : 0  
+* really_trend : 0  
+-------------------------------------------
+
+* test case : 9
+* requirement description : The product shall generate a CMA report in an acceptable time. 
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg :  The product shall generate a CMA report in an acceptable time .
+* predict_trend : - 1
+* really_trend : - 1
+-------------------------------------------
+
+* test case : 10
+* requirement description : The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria. 
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg :  The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria .
+* predict_trend : 0  
+* really_trend : 0  
+-------------------------------------------
+
+* test case : 11
+* requirement description : The product shall synchronize contacts and appointments in an acceptable time. 
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg :  The product shall synchronize contacts and appointments in an acceptable time .
+* predict_trend : - 1
+* really_trend : - 1
+-------------------------------------------
+
+* test case : 12
+* requirement description : The product shall synchronize with the office system every hour.  
+* score : 0.5
+* matched_part :  every 100
+* matched_seg :  The product shall synchronize with the office system every hour .  
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 13
+* requirement description : Out of 1000 accesses to the system  the system is available 999 times. 
+* score : 1.0
+* matched_part :  out of 100
+* matched_seg :  Out of 1000
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 14
+* requirement description : 100% of saved user preferences shall be restored when system comes back online. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  100 % of saved user preferences
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 15
+* requirement description : The product shall be able support 1000 simultaneous users. 
+* score : 1.0
+* matched_part :  support 100
+* matched_seg :  The product shall be able support 1000 simultaneous users .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 16
+* requirement description : The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year. 
+* score : 1.0
+* matched_part :  be capable of handling 100
+* matched_seg :  The product shall be capable of handling the existing 1000 users .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 17
+* requirement description : 90% of untrained realtors shall be able to install the product on their device without printed instructions 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of untrained realtors
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 18
+* requirement description : The number of mistakes noted by the students shall be decreased by 50% in the first year. 
+* score : 1.0
+* matched_part :  decreased by 100
+* matched_seg :  The number of mistakes noted by the students shall be decreased by 50 % in the first year .
+* predict_trend : 0  
+* really_trend : 0  
+-------------------------------------------
+
+* test case : 19
+* requirement description : 2 out of 3 Program Administrators/Nursing Staff Members shall successfully be able to use the system to manage the scheduling of classes and clinicals. 
+* score : 1.0
+* matched_part :  out of 100
+* matched_seg :  2 out of 3 Program Administrators / Nursing Staff Members
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 20
+* requirement description : The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds. 
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg :  The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds .
+* predict_trend : 0  
+* really_trend : 0  
+-------------------------------------------
+
+* test case : 21
+* requirement description : The system shall achieve 95% up time. 
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :  The system shall achieve 95 % up time .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 22
+* requirement description : system shall be able to handle all of the user requests/usage during business hours. 
+* score : 1.0
+* matched_part :  all of the
+* matched_seg :  system shall be able to handle all of the user requests / usage during business hours .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 23
+* requirement description : The system shall cater to 10 simultaneous users from 9am to 5pm. 
+* score : 1.0
+* matched_part :  to 100
+* matched_seg :  The system shall cater to 10 simultaneous users from 9 am to 5 pm .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 24
+* requirement description : The system shall be capable of processing 100% of nursing students and their classes for the next 10 years. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The system shall be capable of processing 100 % of nursing students and their classes for the next 10 years .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 25
+* requirement description : The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years. 
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg :  The system shall be expected to manage the nursing program curriculum and class / clinical scheduling for a minimum of 5 years .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 26
+* requirement description : 100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  100 % of the cardmember and merchant services representatives
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 27
+* requirement description : 100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  100 % of cardmember services representatives
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 28
+* requirement description : 100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  100 % of merchant services representatives
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
+* test case : 29
+* requirement description : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds. 
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg :  The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds .
+* predict_trend : 0  
+* really_trend : 0  
+-------------------------------------------
+
+* test case : 30
+* requirement description : The Disputes application shall support 350 concurrent users without any degradation of performance in the application. 
+* score : 1.0
+* matched_part :  support 100
+* matched_seg :  The Disputes application shall support 350 concurrent users without any degradation of performance in the application .
+* predict_trend : 1  
+* really_trend : 1  
+-------------------------------------------
+
