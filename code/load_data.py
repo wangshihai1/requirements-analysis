@@ -30,7 +30,6 @@ def get_data2(path):
             items = line.strip().split('@')
             if len(items)<2:
                 print(items[0])
-                print(i)
                 continue
             sentence=items[0]
             label=items[1]

@@ -1,0 +1,15 @@
+A greater y is more preferred when y < x
+A smaller y is more preferred when y < x
+Any y is equally preferred when y < x
+
+A greater y is more preferred when y > x
+A smaller y is more preferred when y > x
+Any y is equally preferred when y > x
+
+
+A greater y is more preferred at any time
+A smaller y is more preferred at any time
+Any y is equally preferred at any time
+
+
+Assume that y represents the demand indicator and x represents the threshold.

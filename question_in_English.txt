@@ -1,0 +1,16 @@
+Please provide the corresponding encoding based on the input statement according to the following requirements. I will input a statement describing a requirement, and you need to give the trend of user satisfaction as the metric changes.
+For example, the input requirement statement is: 'The search results shall be returned no later than 30 seconds', and the output encoding is: '0 -1', indicating that satisfaction is indifferent to the left of the 30-second threshold and decreases when it exceeds 30 seconds.
+The encoding rules for the trend of change are: 1 indicates that satisfaction increases as the metric increases; 0 indicates that satisfaction is indifferent as the metric increases; -1 indicates that satisfaction decreases as the metric increases.
+Here are 10 more input-output examples. Please complete the new encoding task based on your understanding:
+(1) Input: The system shall refresh the display every 60 seconds. Output: -1 -1
+(2) Input: The search results shall be returned no later than 30 seconds after the user has entered the search criteria. Output: 0 -1
+(3) Input: The product shall generate a CMA report in an acceptable time. Output: -1 -1
+(4) Input: The system shall achieve 95% uptime. Output: 1 0
+(5) Input: The number of mistakes noted by the students shall be decreased by 50% in the first year. Output: 0 -1
+(6) Input: 100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course. Output: 1 0
+(7) Input: The average number of recycled parts records per day shall be 50,000. Output: 1 -1
+(8) Input: The time exceeding 10 seconds should not be more than 10% of the time. Output: 0 -1
+(9) Input: The product interface should be fast for 90% of the time. Output: 1 0
+(10) Input: The system response time must be no more than 5 seconds. Output: 0 -1
+
+Please follow the above examples and output the encoding (Note: Only output the final encoding as two digits, without any explanatory language,I want to stress again that only the encoding represented by the two integers should be output, and all other useless information should not be output!) for the following requirement statement:

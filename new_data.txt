@@ -86,7 +86,7 @@
 86@System shall let Izogn Manager access sales and usage statistics in under 2 minutes. @02
 87@System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs. @02
 88@The product should be able to be used by 90% of novice users on the Internet. @10
-89@Users should only have to navigate through a maximum of 4 pages  to create an account with the website. @02
+89@Users should only have to navigate through a maximum of 4 pages  to create an account with the website	. @02
 90@Users should be able to access their streaming movies in under 2 clicks after logging into the website. @02
 91@An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website. @10
 92@An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system. @10

@@ -1,0 +1,4 @@
+I'm going to give you two descriptions, and I want you to help me decide whether they mean the same thing, note that they mean the same thing, so even though they have different words, they mean the same thing, and we think they're the same thing.
+If the semantics are the same, please output "yes", otherwise output "No",
+Note that you can only give "yes" or "no" answers, and everything else, including your explanatory language and prompt words, is forbidden.
+What you need to judge is as follows:

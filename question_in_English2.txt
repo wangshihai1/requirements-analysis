@@ -1,0 +1,26 @@
+I will input a statement describing a requirement,  and you need to give the trend of user satisfaction as the metric changes.
+If we use y to represent the metric in the requirement and x to represent the threshold contained in the requirement, 
+you would need to make A prediction like this for user satisfaction preferences: A greater y is more preferred when y < x; Any y is equally preferred when y > x.
+In addition, I will give you some examples to deepen your understanding of this task:
+(1)Input: The system shall refresh the display every 60 seconds. 
+    Output: A greater y is more preferred when y < x; A smaller y is more preferred when y > x.
+(2)Input: The product shall synchronize contacts and appointments in an acceptable time. 
+    Output: A smaller y is more preferred at any time.
+(3)Input: system shall be able to handle all of the user requests/usage during business hours. 
+    Output: A greater y is more preferred at any time
+(4)Input: 100% of saved user preferences shall be restored when system comes back online.  
+    Output: A greater y is more preferred when y < x; Any y is equally preferred when y > x.
+(5)Input: The system shall achieve 95% up time. 
+    Output: A greater y is more preferred when y < x; Any y is equally preferred when y > x.
+(6)Input: Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds. 
+    Output: Any y is equally preferred when y < x; A smaller y is more preferred when y > x.
+(7)Input: System shall let customers cancel their account  process shall take no longer than 2 minutes.  
+    Output: Any y is equally preferred when y < x; A smaller y is more preferred when y > x.
+(8)Input: The website shall be available for use 24 hours per day  365 days per year.  
+    Output: A greater y is more preferred at any time.
+(9)Input: The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.  
+    Output: A greater y is more preferred when y < x; Any y is equally preferred when y > x.
+(10)Input: The system shall cater to 10 simultaneous users from 9am to 5pm. 
+    Output: A greater y is more preferred when y < x; A smaller y is more preferred when y > x.
+
+Please follow the above examples and output the trend of user satisfaction as the metric changes(Note that you must output the result in A specified form, such as: "A greater y is more preferred when y < x; Any y is equally preferred when y > x ", output only the above form of the result, do not output any superfluous content, including explanatory content and prompt words.At the same time, the output of the input requirement description statement is also prohibited):

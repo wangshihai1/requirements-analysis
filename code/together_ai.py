@@ -1,9 +1,9 @@
-# python3
-# Please install OpenAI SDK first：`pip3 install openai`
-from openai import OpenAI
+import os
+from together import Together
 from predicte import *
 import matplotlib.pyplot as plt
 from datetime import datetime
+import openai
 
 def get_formatted_time():
     # 获取当前时间
@@ -14,15 +14,21 @@ def get_formatted_time():
     
     return formatted_time
 
-def write_log(q,begin_time,end_time,accuracy,path):
+def write_log(begin_time,end_time,accuracy,path):
     with open(path,'a',encoding='utf-8') as f :
         
-        f.write(f"* question : question{q}" + '\n')
+        f.write(f"* question : question_inEnglish" + '\n')
         f.write('* begin time : ' + begin_time + '\n')
         f.write('* end time : ' + end_time + '\n')
         f.write('* accuracy : ' + str(accuracy) + '\n')
         f.write('------------------------------------' + '\n')
         f.write('\n')
+    
+def remove_useless_msg(predicte_label):
+    for i in range(9):
+        label = label_decode[i]
+        if label in predicte_label:
+            return label
         
 begin_time = get_formatted_time()
 print(f"begin time : {begin_time}")
@@ -31,18 +37,20 @@ TP = [0 for i in range(9)] # 真正例数：实际类别为 i 的样本被正确
 FN = [0 for i in range(9)] # 假负例数：实际类别为 i 的样本被错误预测为其他类别的数量。
 FP = [0 for i in range(9)] # 假正例数：实际类别不为 i 但被预测成 i 的样本数量
 
+
+client = openai.OpenAI(
+  api_key=os.environ.get("TOGETHER_API_KEY"),
+  base_url="https://api.together.xyz/v1",
+)
+
+
 sentences = []
 real_labels = []
 
 question = ''
-q = 3 #选择第几个问题模式
-with open(f'../question{q}.txt','r',encoding='utf-8') as f:
+with open('../question_in_English.txt','r',encoding='utf-8') as f:
     for line in f:
         question = question + line
-
-
-client = OpenAI(api_key="sk-c7e36dd880fe47e1afb1a43de39b718b", base_url="https://api.deepseek.com")
-
 
 full_sentences = open("../new_data.txt",'r',encoding='utf-8').read().split('\n')
 
@@ -50,41 +58,54 @@ for sentence in full_sentences:
     sentences.append(sentence.split('@')[1])
     real_labels.append(trans_trend(sentence.split('@')[2]))
 
+# models = ['google/gemma-2-27b-it', 'allenai/OLMo-7B-Instruct', 'Austism/chronos-hermes-13b', 'deepseek-ai/deepseek-coder-33b-instruct', 'meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo', 'openchat/openchat-3.5-1210']
+models = ['allenai/OLMo-7B-Instruct', 'Austism/chronos-hermes-13b', 'deepseek-ai/deepseek-coder-33b-instruct', 'meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo', 'openchat/openchat-3.5-1210']
+
+model_name = 'openchat/openchat-3.5-1210'
+print(f"正在测试的模型是：{model_name}")
+
 cnt = 0
 i = 0
 for sentence in sentences:
+
+    stream = client.chat.completions.create(
+        model = model_name,
+        messages = [{"role": "user", 
+                    "content": question + '\n' + sentence
+                    }],
+        stream = True,
+    )
     
-    response = client.chat.completions.create(
-        model="deepseek-chat",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant"},
-            {"role": "user", "content": question + '\n' + sentence},
-        ],
-        stream=False
-    )    
+    predicte_label = ''
+    for chunk in stream:
+        predicte_label  = predicte_label + chunk.choices[0].delta.content
     
-    predicte_label = response.choices[0].message.content
-    
+    # print('wsh ' + predicte_label)
+    # predicte_label = remove_useless_msg(predicte_label)
+    # predicte_label = predicte_label[1:]
+    print(predicte_label)
+
     if predicte_label == real_labels[i] :
         cnt += 1
         id = label_encode[predicte_label]
         TP[id] += 1
     else :
-        if not predicte_label in label_encode : continue
-        
-        id = label_encode[real_labels[i]] #实际类别为 i的样本被错误预测为其他类别
-        FN[id] += 1
-        id = label_encode[predicte_label]
-        FP[id] += 1        
+        if predicte_label in label_encode : 
+            
+            id = label_encode[real_labels[i]] #实际类别为 i的样本被错误预测为其他类别
+            FN[id] += 1
+            id = label_encode[predicte_label]
+            FP[id] += 1        
         
     i += 1
     print(f"test case : {i}")
-    
+
 accuracy = cnt / len(sentences)
 print(f"accuracy : {accuracy}")
 end_time = get_formatted_time()
 print(f"end time : {end_time}")  
-write_log(q,begin_time, end_time, accuracy, '../预测结果/语言模型API/runtime_log.txt')
+model_name = model_name.split('/')[0]
+write_log(begin_time, end_time, accuracy, f'../预测结果/语言模型API/runtime_{model_name}_log.txt')
 
 recalls = []
 precisions = []
@@ -100,7 +121,7 @@ for i in range(9):
         precision = 0
     else :
         precision = TP[i] / (TP[i] + FP[i])
-     
+    
     if recall + precision == 0:
         F1_score = 0
     else :
@@ -115,7 +136,7 @@ plt.bar(x, recalls, color = 'green') #绘制每一类别数量的柱状图
 plt.title('label recalls')
 plt.xlabel('label')
 plt.ylabel('recall')
-plt.savefig(f'../可视化/nlp-question{q}/label-recalls(by nlp model).png')
+plt.savefig(f'../可视化/nlp-question-inEnglish/label-recalls(by nlp model)_{model_name}.png')
 plt.close()  
 
 plt.figure()
@@ -123,7 +144,7 @@ plt.bar(x, precisions, color = 'red') #绘制每一类别数量的柱状图
 plt.title('label precisions')
 plt.xlabel('label')
 plt.ylabel('precision')
-plt.savefig(f'../可视化/nlp-question{q}/label-precisions(by nlp model).png')
+plt.savefig(f'../可视化/nlp-question-inEnglish/label-precisions(by nlp model)_{model_name}.png')
 plt.close()  
 
 plt.figure()
@@ -131,6 +152,10 @@ plt.bar(x, F1_scores, color = 'yellow') #绘制每一类别数量的柱状图
 plt.title('label F1_scores')
 plt.xlabel('label')
 plt.ylabel('F1_score')
-plt.savefig(f'../可视化/nlp-question{q}/label-F1_scores(by nlp model).png')
+plt.savefig(f'../可视化/nlp-question-inEnglish/label-F1_scores(by nlp model)_{model_name}.png')
 plt.close()  
-    
+        
+
+
+
+#

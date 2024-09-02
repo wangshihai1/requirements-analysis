@@ -17,3 +17,7 @@
 不同模式应该具有不同权重
 
 没有数字阈值应该怎么办
+
+The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.
+
+application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network. :0 -1

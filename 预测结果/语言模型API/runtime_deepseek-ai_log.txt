@@ -1,0 +1,18 @@
+* question : question_inEnglish
+* begin time : 2024-08-27_15-12-41
+* end time : 2024-08-27_15-17-42
+* accuracy : 0.43529411764705883
+------------------------------------
+
+* question : question_inEnglish
+* begin time : 2024-08-28_11-22-42
+* end time : 2024-08-28_11-28-25
+* accuracy : 0.340588352941
+------------------------------------
+
+* question : question_inEnglish
+* begin time : 2024-08-28_13-59-16
+* end time : 2024-08-28_14-07-59
+* accuracy : 0.0
+------------------------------------
+

@@ -94,11 +94,12 @@ def wirte_to_txt(path,test_case,sentence,score,matched_pattern,matched_seg,predi
         f.write("* score : " + str(score) + '\n')
         f.write("* matched_part : " + matched_pattern + '\n')
         f.write("* matched_seg : " + matched_seg + '\n')
-        f.write("* predict_trend : " + trend_to_str(predict_trend)+ '\n')
-        f.write("* really_trend : " + trend_to_str(really_trend) + '\n')
+        f.write("* predict_trend : " + predict_trend + '\n')
+        f.write("* really_trend : " + really_trend + '\n')
         f.write("-------------------------------------------" + '\n')       
         f.write('\n')
 
+begin_time = get_formatted_time()
 
 sentences = []
 real_labels = []
@@ -110,11 +111,11 @@ full_sentences = open("../new_data.txt",'r',encoding='utf-8').read().split('\n')
 
 for sentence in full_sentences:
     sentences.append(sentence.split('@')[1])
-    label = trans_trend(sentence.split('@')[2])
+    label = sentence.split('@')[2]
+    label = trans_trend(label)
     real_labels.append(label)
     id = label_encode[label]
     num[id] += 1
-    
 
 i = 0
 cnt = 0
@@ -125,7 +126,8 @@ for big_sentence in sentences:
     test_case = f'test case : {i+1}'
     print(test_case)
     
-    Changing_trend,matched_pattern,score ,matched_seg= func2(big_sentence)
+    Changing_trend, matched_pattern,score, matched_seg= func2(big_sentence)
+
             
     if Changing_trend == real_labels[i]:
         cnt += 1
@@ -181,6 +183,12 @@ for i in range(9):
     print("-----------------------------------")
     print("")
 
+end_time = get_formatted_time()
+
+print("* begin time : ",begin_time)
+print("* end_time : ",end_time)
+
+exit(0)
 
 # 绘制并保存第一张图
 plt.figure()  # 创建新图

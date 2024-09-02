@@ -26,6 +26,18 @@ label_decode = { #每个编号对应一个标签
     8 : "-1 -1"
 }
 
+label_msg = {
+    "1 1" : "A greater y is more preferred at any time",
+    "1 0" : "A greater y is more preferred when y < x; Any y is equally preferred when y > x",
+    "1 -1" : "A greater y is more preferred when y < x; A smaller y is more preferred when y > x",
+    "0 1" : "Any y is equally preferred when y < x; A greater y is more preferred when y > x",
+    "0 0" : "Any y is equally preferred at any time",
+    "0 -1" : "Any y is equally preferred when y < x; A smaller y is more preferred when y > x",
+    "-1 1" : "A smaller y is more preferred when y < x; A greater y is more preferred when y > x",
+    "-1 0" : "A smaller y is more preferred when y < x; Any y is equally preferred when y > x",
+    "-1 -1" : "A smaller y is more preferred at any time"   
+}
+
 #将句子分割为单词列表
 def get_word(s):
     res=[' ']

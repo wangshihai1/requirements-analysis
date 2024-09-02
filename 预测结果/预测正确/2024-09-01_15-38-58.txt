@@ -1,0 +1,576 @@
+* test case : 1
+* requirement description : The system shall refresh the display every 60 seconds.
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  The system shall refresh the display every 60 seconds .
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 2
+* requirement description :  The product shall be available during normal business hours. As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  As long as the user has access to the client PC   the system will be available 99 % of the time during the first six months of operation .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 3
+* requirement description : The product shall respond fast to keep up-to-date data in the display.
+* score : 1.0
+* matched_part :  respond fast to
+* matched_seg :  The product shall respond fast to keep up - to - date data in the display .
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 4
+* requirement description : The product shall produce search results in an acceptable time
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg :  The product shall produce search results in an acceptable time
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 5
+* requirement description : The search results shall be returned no later 30      seconds  after the user has entered the search criteria
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg :  The search results shall be returned no later 30       seconds   after the user has entered the search criteria
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 6
+* requirement description : The product shall generate a CMA report in an acceptable time.
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg :  The product shall generate a CMA report in an acceptable time .
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 7
+* requirement description : The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg :  The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 8
+* requirement description : The product shall synchronize contacts and appointments in an acceptable time.
+* score : 1.0
+* matched_part :  in an acceptable time
+* matched_seg :  The product shall synchronize contacts and appointments in an acceptable time .
+* predict_trend : -1 -1
+* really_trend : -1 -1
+-------------------------------------------
+
+* test case : 9
+* requirement description : The product shall synchronize with the office system every hour.
+* score : 0.5
+* matched_part :  every 100
+* matched_seg :  The product shall synchronize with the office system every hour .
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 10
+* requirement description :  The product shall be available for use 24 hours per day  365 days  per year
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  The product shall be available for use 24 hours per day   365 days   per year
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 11
+* requirement description :  Out of 1000 accesses to the system  the system is available 999 times.
+* score : 1.0
+* matched_part :  out of 100
+* matched_seg :    Out of 1000 accesses to the system  
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 14
+* requirement description : The product shall be able to support multiple remote users
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  The product shall be able to support multiple remote users
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 15
+* requirement description : The product shall be able support 1000 simultaneous users.
+* score : 1.0
+* matched_part :  support 100
+* matched_seg :  The product shall be able support 1000 simultaneous users .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 16
+* requirement description : The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.
+* score : 1.0
+* matched_part :  be capable of handling 100
+* matched_seg :  The product shall be capable of handling the existing 1000 users .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 18
+* requirement description : The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg :  The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 20
+* requirement description : The system shall achieve 95% up time.
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :  The system shall achieve 95 % up time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 21
+* requirement description : system shall be able to handle all of the user requests/usage during business hours.
+* score : 1.0
+* matched_part :  all of the
+* matched_seg :  system shall be able to handle all of the user requests / usage during business hours .
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 24
+* requirement description : The system shall be expected to manage the nursing program curriculum and class/clinical scheduling for a minimum of 5 years.
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg :  The system shall be expected to manage the nursing program curriculum and class / clinical scheduling for a minimum of 5 years .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 25
+* requirement description : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg :  The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 26
+* requirement description : The Disputes application shall support 350 concurrent users without any degradation of performance in the application.
+* score : 1.0
+* matched_part :  support 100
+* matched_seg :  The Disputes application shall support 350 concurrent users without any degradation of performance in the application .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 27
+* requirement description : The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg :  The search for recycled parts shall take no longer than 15 seconds .  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 28
+* requirement description : The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg :  The search for the preferred repair facility shall take no longer than 8 seconds .  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 29
+* requirement description : The recycled parts audit report shall be returned to the user within 10 seconds.  The audit report shall be returned within 10 seconds.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  The recycled parts audit report shall be returned to the user within 10 seconds .  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 30
+* requirement description : The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  The preferred repair facility ratings shall be saved within 5 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 32
+* requirement description : The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The product shall not fail more than 2 % of the available online time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 33
+* requirement description : The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  The product shall be able to handle up to 1500 simultaneous users .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 34
+* requirement description :  The average number of recycled parts records per day shall be 50 000.
+* score : 1.0
+* matched_part :  be 100
+* matched_seg :    The average number of recycled parts records per day shall be 50 000 .
+* predict_trend : 1 -1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 37
+* requirement description :  Aside from server failure  the software product shall achieve 99.99% up time.
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :    Aside from server failure   the software product shall achieve 99.99 % up time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 38
+* requirement description :  The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  The product shall be capable of handling up to 1 000 concurrent requests .  
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 40
+* requirement description : The product shall be expected to operate for at least 5 years for each customer installation.
+* score : 1.0
+* matched_part :  at least 100
+* matched_seg :  The product shall be expected to operate for at least 5 years for each customer installation .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 43
+* requirement description : Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+* score : 1.0
+* matched_part :  no more than 100
+* matched_seg :  Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 44
+* requirement description : The System shall allow for a minimum of  6 users to work at the same time.
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg :  The System shall allow for a minimum of   6 users to work at the same time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 45
+* requirement description : Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  Administrator shall be able to activate a pre - paid card via the Administration section in under 5 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 46
+* requirement description :  Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :    Customer shall be able to check the status of their prepaid card   by entering in the PIN number   in under 5 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 47
+* requirement description : System shall let customers register on the website as a ìpay as you goî user in under 5 minutes.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let customers register on the website as a ìpay as you goî user in under 5 minutes .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 48
+* requirement description : System shall let customers register on the website as a ìunlimited movie subscriberî user in under 10 minutes.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let customers register on the website as a ìunlimited movie subscriberî user in under 10 minutes .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 49
+* requirement description : System shall let existing customers log into the website with their email address and password in under 5 seconds.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let existing customers log into the website with their email address and password in under 5 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 50
+* requirement description :  System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg :    System shall let customers cancel their account   process shall take no longer than 2 minutes .  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 51
+* requirement description : System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let administrator de - activate a customer account in under 1 minute .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 52
+* requirement description : System shall let administrator add/remove movies on the website in under 5 minutes.  Entered movie information will be stored in the database and will now be available on the website.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let administrator add / remove movies on the website in under 5 minutes .  
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 53
+* requirement description : System shall let the administrator add/remove categories on the website in under 5 minutes.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let the administrator add / remove categories on the website in under 5 minutes .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 54
+* requirement description : System shall let Izogn Manager access sales and usage statistics in under 2 minutes.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let Izogn Manager access sales and usage statistics in under 2 minutes .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 55
+* requirement description : System shall let administrators generate unique pre-paid pins in under 2 minutes and generate an Excel file with the generated PINs.
+* score : 1.0
+* matched_part :  in under 100
+* matched_seg :  System shall let administrators generate unique pre - paid pins in under 2 minutes and generate an Excel file with the generated PINs .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 58
+* requirement description :  When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the userís connection.)
+* score : 1.0
+* matched_part :  no longer than 100
+* matched_seg :  When streaming a movie   the buffering time should take no longer than 10 seconds ( plus any latency on the userís connection . )
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 59
+* requirement description :  The website shall be available for use 24 hours per day  365 days per year.
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  The website shall be available for use 24 hours per day   365 days per year .
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 60
+* requirement description : The website shall achieve 99.5% up time.
+* score : 0.6666666666666666
+* matched_part :  100 % of
+* matched_seg :  The website shall achieve 99.5 % up time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 61
+* requirement description :  All movies shall be streamed on demand  at any time of the day.
+* score : 1.0
+* matched_part :  all must be
+* matched_seg :    All movies shall be streamed on demand   at any time of the day .
+* predict_trend : 1 1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 62
+* requirement description : The streaming server will support 50 simultaneous streaming connections.
+* score : 1.0
+* matched_part :  support 100
+* matched_seg :  The streaming server will support 50 simultaneous streaming connections .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 63
+* requirement description : The streaming server will support a maximum of 700 movies; new servers can be added to support more movies.
+* score : 1.0
+* matched_part :  support a maximum of 100
+* matched_seg :  The streaming server will support a maximum of 700 movies
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 64
+* requirement description :  The server will support a maximum of 1 000 simultaneous users.
+* score : 1.0
+* matched_part :  support a maximum of 100
+* matched_seg :    The server will support a maximum of 1 000 simultaneous users .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 65
+* requirement description :  The website shall be capable of supporting 100 000 customers.
+* score : 0.8
+* matched_part :  be capable of handling 100
+* matched_seg :  The website shall be capable of supporting 100 000 customers .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 66
+* requirement description : Izogn Administrator must be able to update the category listings on the website within 2 minutes.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  Izogn Administrator must be able to update the category listings on the website within 2 minutes .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 67
+* requirement description : Izogn Administrator must be able to add new products to the website within 2 minutes.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  Izogn Administrator must be able to add new products to the website within 2 minutes .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 69
+* requirement description : Total lead cycle time must be completed in 5 minutes for 90% of lead volume between the business hours of 8AM CST to 8PM CST; then 3 minutes for 99% of lead volume during off business hours.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  Total lead cycle time must be completed in 5 minutes for 90 % of lead volume between the business hours of 8AM CST to 8PM CST ; then 3 minutes for 99 % of lead volume during off business hours .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 70
+* requirement description : No lead evaluation will complete in a time period longer than 25 seconds for 97% of all leads processed.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  No lead evaluation will complete in a time period longer than 25 seconds for 97 % of all leads processed .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 71
+* requirement description : The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 81
+* requirement description : The product shall process messages within 2 seconds.The product shall have a maximum message processing time of 2 seconds
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  The product shall process messages within 2 seconds .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 83
+* requirement description : The product shall be available 99% of the time. Rationale: To avoid service interruption during busiest customer service response periods. The product shall be available 99.99% of the time for regular business days.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The product shall be available 99 % of the time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 84
+* requirement description : The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.
+* score : 1.0
+* matched_part :  minimum of 100
+* matched_seg :  The product shall process minimum of 1 million transactions per year .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 85
+* requirement description : The WCS system shall be available at all times as long as IBMís internal intranet W3 is accessible. The WCS system will be available 95% of the time IBMís internal intranet W3 is available.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The WCS system will be available 95 % of the time IBMís internal intranet W3 is available .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 86
+* requirement description : The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :  The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 87
+* requirement description : The application shall have a downtime of at most 10 minutes per year.
+* score : 1.0
+* matched_part :  at most 10
+* matched_seg :  The application shall have a downtime of at most 10 minutes per year .
+* predict_trend : 0 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 88
+* requirement description :  The RFS system should be available 24/7  especially during the budgeting period. The RFS system shall be available 90% of the time all year  and 98% during the budgeting period. 2% of the time  the system will become available within 1 hour of the time that the situation is reported.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The RFS system shall be available 90 % of the time all year   and 98 % during the budgeting period .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 89
+* requirement description :  The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.not be more than 10 seconds
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  The response time of the product interface should not exceed 2 seconds 90 % of the time .
+* predict_trend : 1 0
+* really_trend : 1 0
+-------------------------------------------
+

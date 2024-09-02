@@ -3,18 +3,22 @@ import sys
 
 last = int(sys.argv[1])
 
-path = './非功能需求.txt'
+path = '../new_data2.txt'
 
-save_path = './已标记.txt'
+save_path = '../new_labeled_data2.txt'
 
-sentences , _ =get_data2(path)
+sentences = []
+
+with open(path, 'r', encoding = 'utf-8') as f:
+    for sentence in f :
+        sentences.append(sentence[: -1])
 
 print("数据读取完成")
 
 resutl = []
 
 cnt = 0
-with open(save_path, 'a',encoding='utf-8') as f:#注意txt的编码格式
+with open(save_path, 'a', encoding='utf-8') as f:#注意txt的编码格式
     for sentence in sentences:
         cnt +=1
         if cnt < last: continue
