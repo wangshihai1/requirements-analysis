@@ -1,0 +1,35 @@
+100% of $10
+within 100 $02
+later 100 $10
+decreased by 100 $02
+out of 100 $10
+longer than 100 $10
+more than 100 $10
+in under 100 $02
+less than 100 $02
+a period of 100 $12
+exceed 100 $10
+maximum of 100 $02
+on 100 $12
+be avilable 100 $10
+support 100 $10
+be 100 $12
+approximately 100 $12
+reamain 100 $12
+in 100 $02
+to 100 $12
+up to 100 $10
+every 100 $12
+of 100 $12
+at least 100 $10
+minimum of 100 $10
+after 100 $10
+in an acceptable time  $22
+support a maximum of 100 $10
+respond fast to $22
+be able to handle 100 $10
+all must be $11
+contain the 100 $12
+at most 10 $02
+all of the $11
+be capable of handling 100 $10

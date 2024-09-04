@@ -1,4 +1,5 @@
 import pandas as pd
+from predicte import trans_trend
 
 # path = '../emprical-data.xlsx'
 
@@ -25,18 +26,26 @@ import pandas as pd
     
 #     f.close()
     
-path = '../new_labeled_data2.txt'
+# path = '../new_labeled_data2.txt'
 
-with open('../new_labeled_data3.txt', 'w', encoding = 'utf-8') as g :
+# with open('../new_labeled_data3.txt', 'w', encoding = 'utf-8') as g :
 
-    with open(path, 'r', encoding = 'utf-8') as f:
-        cnt = 1
-        for line in f :
-            line = line.split('@')[1] + '@' + line.split('@')[2]
-            line = str(cnt) + '@' + line
-            g.write(line)
-            cnt += 1
+#     with open(path, 'r', encoding = 'utf-8') as f:
+#         cnt = 1
+#         for line in f :
+#             line = line.split('@')[1] + '@' + line.split('@')[2]
+#             line = str(cnt) + '@' + line
+#             g.write(line)
+#             cnt += 1
                 
-        f.close()
+#         f.close()
         
-    g.close()
+#     g.close()
+
+with open('../new_labeled_data4.txt', 'w', encoding = 'utf-8') as g:
+    with open('../new_data.txt', 'r', encoding = 'utf-8') as f:
+        for line in f:
+            l = line.split('@')      
+            g.write(l[0] + '@' + l[1] + '@' + trans_trend(l[2]) + '\n')
+    f.close()
+g.close()

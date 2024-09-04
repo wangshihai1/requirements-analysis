@@ -1,0 +1,260 @@
+* test case : 5
+* requirement description : The search results shall be returned no later 30      seconds  after the user has entered the search criteria
+* score : 1.0
+* matched_part :  later 100
+* matched_seg :  the search results shall be returned no later 30       seconds   after the user has entered the search criteria
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 7
+* requirement description : The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+* score : 1.0
+* matched_part :  later 100
+* matched_seg :  the cma report shall be returned no later 60 seconds after the user has entered the cma report criteria .
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 12
+* requirement description : The product shall operate in offline mode whenever internet connection is unavailable.
+* score : 0.5
+* matched_part :  in 100
+* matched_seg :  the product shall operate in offline mode whenever internet connection is unavailable .
+* predict_trend : 0 -1
+* really_trend : 1 1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 17
+* requirement description : Staff members shall be able to complete a set of tasks in a timely manner.
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  staff members shall be able to complete a set of tasks in a timely manner .
+* predict_trend : 1 1
+* really_trend : -1 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 18
+* requirement description : The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg :  the response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds .
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 19
+* requirement description : The system shall be available for use between the hours of 8am and 6pm.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  the system shall be available for use between the hours of 8 am and 6 pm .
+* predict_trend : 1 -1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 22
+* requirement description : The system shall cater to 10 simultaneous users from 9am to 5pm.
+* score : 1.0
+* matched_part :  to 100
+* matched_seg :  the system shall cater to 10 simultaneous users from 9 am to 5 pm .
+* predict_trend : 1 -1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 25
+* requirement description : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+* score : 1.0
+* matched_part :  more than 100
+* matched_seg :  the maximum wait time for a user navigating from one screen to another within the disputes application shall be no more than 5 seconds .
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 27
+* requirement description : The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg :  the search for recycled parts shall take no longer than 15 seconds .  
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 28
+* requirement description : The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg :  the search for the preferred repair facility shall take no longer than 8 seconds .  
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 31
+* requirement description : The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the application is brought down only within 98 % of the scheduled outages per the availability schedule .
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 36
+* requirement description : The response shall be fast enough to avoid interrupting the userís flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of tasks
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 39
+* requirement description :  The product shall be able to process 10 000 transactions per hour within two years of its launch.  This number will increase to 20 000 by Release 2.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :    the product shall be able to process 10 000 transactions per hour within two years of its launch .  
+* predict_trend : 0 -1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 41
+* requirement description : The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product and/or dependent databases / filesystems shall not crash 100 % of the time that malicious data is input into the product .
+* predict_trend : 1 0
+* really_trend : 1 1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 42
+* requirement description : The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.
+* score : 1.0
+* matched_part :  all of the
+* matched_seg :  the language of the product shall accommodate all of the target market countries .
+* predict_trend : 1 1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 43
+* requirement description : Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+* score : 1.0
+* matched_part :  more than 100
+* matched_seg :  recreation of inventory quantity adjustment for the period of previous 30 days shall take no more than 30min .
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 50
+* requirement description :  System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg :    system shall let customers cancel their account   process shall take no longer than 2 minutes .  
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 56
+* requirement description :  Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :    any interface between a user and the automated system shall have a maximum response time of 5 seconds   unless noted by an exception below .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 57
+* requirement description :  When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  when purchasing a streaming movie or pre - paid card via credit card   the processing time should have a maximum response time of 15 seconds .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 58
+* requirement description :  When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the userís connection.)
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg :    when streaming a movie   the buffering time should take no longer than 10 seconds ( plus any latency on the userís connection . )
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 68
+* requirement description : The system will provide a 24 hour 800 toll free number for support to its customers.
+* score : 0.6666666666666666
+* matched_part :  contain the 100
+* matched_seg :  the system will provide a 24 hour 800 toll free number for support to its customers .
+* predict_trend : 1 -1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 72
+* requirement description : ' The product shall be available 24 hours per day  seven days per week.
+* score : 0.6666666666666666
+* matched_part :  be avilable 100
+* matched_seg :  ' the product shall be available 24 hours per day   seven days per week .
+* predict_trend : 1 0
+* really_trend : 1 1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 73
+* requirement description : The product shall able to handle a large number of games simultaneously.
+* score : 0.6
+* matched_part :  be able to handle 100
+* matched_seg :  the product shall able to handle a large number of games simultaneously .
+* predict_trend : 1 0
+* really_trend : 1 1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 79
+* requirement description : The system shall have high availability every day of the year.The system must be available for use between 12:00AM and 6:00PM all days of the year.
+* score : 1.0
+* matched_part :  all of the
+* matched_seg :  the system shall have high availability every day of the year.the system must be available for use between 12:00am and 6:00pm all days of the year .
+* predict_trend : 1 1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 80
+* requirement description : The system must be available for use between 7:00AM and 11:59PM all days of the year.
+* score : 1.0
+* matched_part :  all of the
+* matched_seg :  the system must be available for use between 7:00am and 11:59pm all days of the year .
+* predict_trend : 1 1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 82
+* requirement description : The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second.
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  the product shall poll the system for messages every second.the product shall poll the system for new messages at a maximum of every 1 second .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+

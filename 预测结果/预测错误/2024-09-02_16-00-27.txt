@@ -1,0 +1,162 @@
+* test case : 18
+* requirement description : The number of mistakes noted by the students shall be decreased by 50% in the first year. 
+* score : 1.0
+* matched_part :  decreased by 100
+* matched_seg :  the number of mistakes noted by the students shall be decreased by 50 % in the first year .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 31
+* requirement description : The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ?Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST 
+* score : 1.0
+* matched_part :  to 100
+* matched_seg :  saturday 3:00am to 4:00am est sunday 1:00amd to 5:00am est
+* predict_trend : 1 -1
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 48
+* requirement description : The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product shall not fail more than 2 % of the available online time .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 71
+* requirement description : The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product and/or dependent databases / filesystems shall not crash 100 % of the time that malicious data is input into the product .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 88
+* requirement description : The product should be able to be used by 90% of novice users on the Internet. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product should be able to be used by 90 % of novice users on the internet .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 91
+* requirement description : An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  an anonymous survey will show that 70 % of customers are comfortable purchasing streaming movies after 2 weeks using the website .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 92
+* requirement description : An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  an anonymous survey will show that 95 % of customers are comfortable using and purchasing pre - paid cards after a month of using the system .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 94
+* requirement description : Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  any interface between a user and the automated system shall have a maximum response time of 5 seconds   unless noted by an exception below .
+* predict_trend : -1 1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 95
+* requirement description : When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
+* score : 1.0
+* matched_part :  of 100
+* matched_seg :  when purchasing a streaming movie or pre - paid card via credit card   the processing time should have a maximum response time of 15 seconds .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 105
+* requirement description : Promotional updates to the website should take a day to update. 
+* score : 0.5
+* matched_part :  to 100
+* matched_seg :  promotional updates to the website
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 114
+* requirement description : No lead evaluation will complete for 97% of all leads processed. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  no lead evaluation will complete for 97 % of all leads processed .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 115
+* requirement description : For leads that process longer than 25 seconds the system will record the event and duration. 
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg :  for leads that process longer than 25 seconds
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 118
+* requirement description : The product shall able to handle a large number of games simultaneously. 
+* score : 0.6
+* matched_part :  be able to handle 100
+* matched_seg :  the product shall able to handle a large number of games simultaneously .
+* predict_trend : 1 0
+* really_trend : 1 1
+-------------------------------------------
+
+* test case : 120
+* requirement description : The response time shall be fast enough for 95% of responses. 
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the response time shall be fast enough for 95 % of responses .
+* predict_trend : 0 -1
+* really_trend : 1 0
+-------------------------------------------
+
+* test case : 136
+* requirement description : The product shall poll the system for messages every second.The product shall poll the system for new messages at a maximum of every 1 second. 
+* score : 1.0
+* matched_part :  every 100
+* matched_seg :  the product shall poll the system for new messages at a maximum of every 1 second .
+* predict_trend : 1 -1
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 147
+* requirement description : The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week. 
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg :  queries must be made to external databases for data refresh once a week .
+* predict_trend : 1 1
+* really_trend : 1 -1
+-------------------------------------------
+
+* test case : 149
+* requirement description : The messages will contain up to the first 150 characters of the message. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  the messages will contain up to the first 150 characters of the message .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+
+* test case : 160
+* requirement description : Test files shall be loaded up to 5 times throughout the year from the BDW. 
+* score : 1.0
+* matched_part :  up to 100
+* matched_seg :  test files shall be loaded up to 5 times throughout the year from the bdw .
+* predict_trend : 1 0
+* really_trend : 0 -1
+-------------------------------------------
+

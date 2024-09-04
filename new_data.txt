@@ -111,7 +111,7 @@
 111@Total lead cycle time must be completed in 3 minutes. @02
 112@Total lead cycle time must be completed for 99% of lead volume during off business hours. @10
 113@No lead evaluation will complete in a time period longer than 25 seconds. @02
-114@No lead evaluation will complete for 97% of all leads processed. @10
+114@No lead evaluation will complete for 97% of all leads processed. @02
 115@For leads that process longer than 25 seconds the system will record the event and duration. @02
 116@The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle. @02
 117@The product shall be available 24 hours per day  seven days per week. @10

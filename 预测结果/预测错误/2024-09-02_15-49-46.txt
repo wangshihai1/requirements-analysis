@@ -1,0 +1,5 @@
+* test case : 8
+* requirement description : The search results shall be returned no later 30 seconds  after the user has entered the search criteria 
+* score : 1.0
+* matched_part :  no later 100
+* matched_seg :  the search results shall be returned no later 30 seconds   after the user has entered the search criteria
