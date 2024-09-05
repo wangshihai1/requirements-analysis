@@ -10,22 +10,33 @@ def predicte(big_sentence):
         matched_part = ''
         negative_word = 'no negative word'
         big_sentence = big_sentence.lower()
-        sub_sentences = sentence_split(big_sentence) # 获得该需求语句所有可能的分段
         
-        for sentence in sub_sentences:
-            sentence = sentence.lower()                
-            possible_result = get_label(get_word(sentence)) 
-            result = possible_result[0]
-            
-            if score < result[3]:       
-                Changing_trend = trans_trend(result[2])
-                negative_word = is_passive(sentence)
-                if  negative_word != 'no negative word' : # 语义反转
-                       Changing_trend = label_inv[Changing_trend] 
+        # sub_sentences = sentence_split(big_sentence) # 获得该需求语句所有可能的分段 
+        # for sentence in sub_sentences:
+        # sentence = sentence.lower() 
                        
-                score = result[3]                 
-                matched_pattern = result[1]
-                matched_part = sentence    
+        possible_result = get_label(get_word(big_sentence)) 
+        
+        if possible_result[0][4] == 0: # 和 100 % of 匹配
+            if possible_result[0][0][0] == possible_result[1][0][-1]: #对 100 % of 进行修饰
+                possible_result[0] = possible_result[1] #修饰语为大
+     
+                print("wsh: " + big_sentence)
+                print(possible_result[0][1])
+                print(possible_result[1][1])
+                print("------------------")
+                print("")
+  
+        result = possible_result[0]
+        Changing_trend = result[2]
+        negative_word = is_passive(big_sentence)
+        if  negative_word != 'no negative word' : # 语义反转
+                if result[4] != 0: # 100 % of 不需要语义反转
+                    Changing_trend = label_inv[Changing_trend] 
+                
+        score = result[3]                 
+        matched_pattern = result[1]
+        matched_part = big_sentence    
                 
         return (Changing_trend, list2str(matched_pattern[1:]), score, matched_part, negative_word)
     
@@ -57,7 +68,7 @@ for big_sentence in sentences:
     test_case = f'test case : {i+1}'
     print(test_case)
     
-    Changing_trend, matched_pattern,score, matched_seg, negative_word = predicte(big_sentence)
+    Changing_trend, matched_pattern, score, matched_seg, negative_word = predicte(big_sentence)
             
     if Changing_trend == real_labels[i]:
         cnt += 1
@@ -74,7 +85,8 @@ for big_sentence in sentences:
         FP[id] += 1
         
     i += 1   
-    
+
+
 print("accuracy : ",cnt / i)
     
 n = len(scores)

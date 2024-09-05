@@ -11,5 +11,80 @@ A greater y is more preferred at any time
 A smaller y is more preferred at any time
 Any y is equally preferred at any time
 
-
+the search for the preferred repair facility shall take no longer than 8 seconds.  the preferred repair facility is returned within 8 seconds
 Assume that y represents the demand indicator and x represents the threshold.
+
+The product shall be able to process 10 000 transactions per hour within two years of its launch
+ The product shall be available for use 24 hours per day  365 days  per year
+ Out of 1000 accesses to the system  the system is available 999 times.
+The product shall be able to support multiple remote users
+The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.
+ The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+
+90% of tasks shall complete within 5 seconds.
+The product shall not fail more than 2% of the available online time.
+On a 56k connection  the system response time for all operations must be no more than 6 seconds 90% of the time.
+The application is brought down only within 98% of the scheduled outages per the availability schedule.
+根据可用性计划，应用程序仅在98%的计划中断时间内停机。
+
+* test case : 31
+* requirement description : The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the application is brought down only within 98 % of the scheduled outages per the availability schedule .
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+
+* test case : 32
+* requirement description : The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  the product shall not fail more than 2 % of the available online time .
+* predict_trend : 0 -1
+* really_trend : 1 0
+* negative_word : not
+-------------------------------------------
+
+* test case : 36
+* requirement description : The response shall be fast enough to avoid interrupting the userís flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :  90 % of tasks
+* predict_trend : 1 0
+* really_trend : 0 -1
+* negative_word : no negative word
+-------------------------------------------
+
+* test case : 39
+* requirement description :  The product shall be able to process 10 000 transactions per hour within two years of its launch.  This number will increase to 20 000 by Release 2.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg :    the product shall be able to process 10 000 transactions per hour within two years of its launch .  
+* predict_trend : 0 -1
+* really_trend : 1 0
+* negative_word : no negative word
+-------------------------------------------
+
+
+* test case : 77
+* requirement description :  On a 56k connection  the system response time for all operations must be no more than 6 seconds 90% of the time.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg :    on a 56k connection   the system response time for all operations must be no more than 6 seconds 90 % of the time .
+* predict_trend : 0 -1
+* really_trend : 1 0
+* negative_word : no
+-------------------------------------------
+
+The response time shall be fast enough to maintain the flow of the game.  The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.@-1 -1#1 0#0 -1
+
+The system shall be responsive. At the DePaul TeleServices Center  when a supervisor uses the system to view a callers schedule  the system response time must be no more than 2 seconds 90% of the time and no more than 5 seconds the rest of the time.
+
+
+语义反转
+优化100 % of 特判
+新的编码方式
+100 % of 的解读

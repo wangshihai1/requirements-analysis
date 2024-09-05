@@ -37,8 +37,10 @@ def get_all_sub_tree(doc_):
     return res
 
 # nlp = spacy.load("en_core_web_sm")
-# doc = nlp("The product shall process messages within 2 seconds.")
-# # spacy.displacy.serve(doc,style='dep')
+# doc = nlp("The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.")
+# for seg_sentence in doc.sents: 
+#     print(seg_sentence.text)
+# spacy.displacy.serve(doc,style='dep')
 # sub_trees = get_all_sub_tree(doc)
 
 # for sbt in sub_trees:

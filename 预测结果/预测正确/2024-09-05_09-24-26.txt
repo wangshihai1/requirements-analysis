@@ -1,0 +1,130 @@
+* test case : 5
+* requirement description : The search results shall be returned no later 30 seconds  after the user has entered the search criteria
+* score : 1.0
+* matched_part :  later 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 7
+* requirement description : The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.
+* score : 1.0
+* matched_part :  later 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 17
+* requirement description : Staff members shall be able to complete a set of tasks in a timely manner.
+* score : 0.6666666666666666
+* matched_part :  all must be
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : -1 -1
+* really_trend : -1 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 18
+* requirement description : The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 25
+* requirement description : The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
+* score : 1.0
+* matched_part :  more than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 27
+* requirement description : The search for recycled parts shall take no longer than 15 seconds.  The search results shall be returned in under 15 seconds.
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 28
+* requirement description : The search for the preferred repair facility shall take no longer than 8 seconds.  The preferred repair facility is returned within 8 seconds
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 31
+* requirement description : The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 36
+* requirement description : The response shall be fast enough to avoid interrupting the userís flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
+* score : 1.0
+* matched_part :  100 % of
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 39
+* requirement description :  The product shall be able to process 10 000 transactions per hour within two years of its launch.  This number will increase to 20 000 by Release 2.
+* score : 1.0
+* matched_part :  within 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 1 0
+* really_trend : 1 0
+* negative_word : should not
+-------------------------------------------
+
+* test case : 43
+* requirement description : Recreation of Inventory Quantity Adjustment for the period of previous 30 days shall take no more than 30min.
+* score : 1.0
+* matched_part :  more than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 50
+* requirement description :  System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+
+* test case : 58
+* requirement description :  When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the userís connection.)
+* score : 1.0
+* matched_part :  longer than 100
+* matched_seg : 89@ The product interface should be fast. The response time of the product interface should not exceed 2 seconds 90% of the time. For 10% of the time  the response time should not be more than 10 seconds.@1 0
+* predict_trend : 0 -1
+* really_trend : 0 -1
+* negative_word : should not
+-------------------------------------------
+

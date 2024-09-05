@@ -1,5 +1,6 @@
 import pandas as pd
-from predicte import trans_trend
+import spacy
+
 
 # path = '../emprical-data.xlsx'
 
@@ -42,10 +43,25 @@ from predicte import trans_trend
         
 #     g.close()
 
-with open('../new_labeled_data4.txt', 'w', encoding = 'utf-8') as g:
-    with open('../new_data.txt', 'r', encoding = 'utf-8') as f:
+nlp = spacy.load("en_core_web_sm")
+with open('../new_labeled_data3.txt', 'w', encoding = 'utf-8') as g:
+    with open('../new_labeled_data2.txt', 'r', encoding = 'utf-8') as f:
+        # id = 0
         for line in f:
-            l = line.split('@')      
-            g.write(l[0] + '@' + l[1] + '@' + trans_trend(l[2]) + '\n')
+            sentence = line.split('@')[1]
+            label = line.split('@')[2]
+            id = line.split('@')[0]
+            doc = nlp(sentence)
+            cnt = 0
+            for sent in doc.sents:
+                cnt +=1
+            if cnt > 1:
+                print(id)
+                # for sent in doc.sents:
+                #     id += 1
+                #     g.write(str(id) + '@' + sent.text + '\n')
+            # else:
+            #     id += 1
+            #     g.write(str(id) + '@' + sentence + '@' + label)
     f.close()
 g.close()
